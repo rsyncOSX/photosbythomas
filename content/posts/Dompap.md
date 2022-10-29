@@ -14,6 +14,6 @@ By click on a photo you can enlarge and browse through all photos in this page b
 
 In Norwegian: [Dompap – Wikipedia](https://no.wikipedia.org/wiki/Dompap).
 
-{{< image src="/images/DSC07198.jpg" position="center" style="border-radius: 8px;" >}}
+{{< image src="/images/DSC07198-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
 
-{{< image src="/images/DSC07296.jpg" position="center" style="border-radius: 8px;" >}}
+{{< image src="/images/DSC07296-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
