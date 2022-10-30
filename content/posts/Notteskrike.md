@@ -14,7 +14,7 @@ By click on a photo you can enlarge and browse through all photos in this page b
 
 In Norwegian: [Nøtteskrike – Wikipedia](https://no.wikipedia.org/wiki/Nøtteskrike).
 
-{{< image src="/images/DSC09038-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
+{{< image src="/images/DSC09035-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
 
 {{< image src="/images/DSC09007-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
 

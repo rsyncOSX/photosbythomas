@@ -7,14 +7,14 @@ categories: ["gallery"]
 
 lightgallery: true
 ---
-A Gallery of pictures...
+Gallery of all pictures...
 
 {{< image src="/images/DSC08362.jpg" position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC08438.jpg" position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC05139-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC06831-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
-{{< image src="/images/DSC07198.jpg" position="center" style="border-radius: 8px;" >}}
-{{< image src="/images/DSC07296.jpg" position="center" style="border-radius: 8px;" >}}
+{{< image src="/images/DSC07198-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
+{{< image src="/images/DSC07296-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC06386-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC06424-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC06427-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
@@ -75,7 +75,7 @@ A Gallery of pictures...
 {{< image src="/images/DSC04142.jpg" position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC08611-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC08352-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
-{{< image src="/images/DSC09038-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
+{{< image src="/images/DSC09035-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC09007-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC08645-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC02553-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
