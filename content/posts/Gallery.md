@@ -38,7 +38,6 @@ Gallery of all pictures...
 {{< image src="/images/_DSC1415.jpg" position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC05938-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC01022-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
-{{< image src="/images/DSC00982-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC01142-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC00958-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC02391-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
