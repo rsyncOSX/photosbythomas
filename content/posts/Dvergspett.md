@@ -16,6 +16,4 @@ In Norwegian: [Dvergspett – Wikipedia](https://no.wikipedia.org/wiki/Dvergspet
 
 {{< image src="/images/DSC06386-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
 
-{{< image src="/images/DSC06424-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
-
 {{< image src="/images/DSC06427-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}

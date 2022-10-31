@@ -14,10 +14,6 @@ By click on a photo you can enlarge and browse through all photos in this page b
 
 In Norwegian: [Svartspett – Wikipedia](https://no.wikipedia.org/wiki/Svartspett).
 
-{{< image src="/images/DSC07086-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< image src="/images/DSC07118-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
-
 {{< image src="/images/DSC07093-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< image src="/images/DSC07114-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}

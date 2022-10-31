@@ -24,7 +24,5 @@ In Norwegian: [Musvåk – Wikipedia](https://no.wikipedia.org/wiki/Musv%C3%A5k)
 
 {{< image src="/images/DSC07825-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
 
-{{< image src="/images/DSC07813-ARW_DxO_PRIME.jpg"  position="center" style="border-radius: 8px;" >}}
-
 {{< image src="/images/DSC07841-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
 

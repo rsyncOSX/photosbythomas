@@ -18,10 +18,8 @@ In Norwegian: [Lavskrike – Wikipedia](https://no.wikipedia.org/wiki/Lavskrike)
 
 {{< image src="/images/DSC07724-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
 
-{{< image src="/images/DSC08257-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
-
-{{< image src="/images/DSC06924-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
-
 {{< image src="/images/DSC08276-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
 
 {{< image src="/images/DSC06882-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< image src="/images/DSC09064-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}

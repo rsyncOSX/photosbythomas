@@ -20,4 +20,3 @@ In Norwegian: [Rødstilk – Wikipedia](https://no.wikipedia.org/wiki/R%C3%B8dst
 
 {{< image src="/images/DSC02611-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
 
-{{< image src="/images/DSC02578-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
