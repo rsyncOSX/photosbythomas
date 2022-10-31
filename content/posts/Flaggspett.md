@@ -21,5 +21,3 @@ In Norwegian: [Flaggspett – Wikipedia](https://no.wikipedia.org/wiki/Flaggspet
 {{< image src="/images/DSC08949-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< image src="/images/DSC09031-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< image src="/images/DSC09029-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
