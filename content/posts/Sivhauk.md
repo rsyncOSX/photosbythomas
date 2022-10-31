@@ -19,5 +19,3 @@ In Norwegian: [Sivhauk – Wikipedia](https://no.wikipedia.org/wiki/Sivhauk).
 {{< image src="/images/DSC05193-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
 
 {{< image src="/images/DSC05003.jpg"  position="center" style="border-radius: 8px;" >}}
-
-{{< image src="/images/DSC05203-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
