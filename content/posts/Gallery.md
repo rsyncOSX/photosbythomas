@@ -24,7 +24,6 @@ Gallery of all pictures...
 {{< image src="/images/DSC08375-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC08949-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC09031-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
-{{< image src="/images/DSC09029-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC06305.jpg" position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC09924-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC09889-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
@@ -85,6 +84,8 @@ Gallery of all pictures...
 {{< image src="/images/DSC00490.jpg"  position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC06591-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC04906-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
+{{< image src="/images/DSC06107-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
+{{< image src="/images/DSC06127-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC07093-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC07114-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
 {{< image src="/images/DSC07102-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
