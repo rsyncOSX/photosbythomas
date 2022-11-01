@@ -14,6 +14,12 @@ By click on a photo you can enlarge and browse through all photos in this page b
 
 In Norwegian: [Storskarv – Wikipedia](https://no.wikipedia.org/wiki/Storskarv).
 
+{{< image src="/images/DSC09172-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
+
+{{< image src="/images/DSC09174-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
+
+{{< image src="/images/DSC09177-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
+
 {{< image src="/images/DSC00428.jpg"  position="center" style="border-radius: 8px;" >}}
 
 {{< image src="/images/DSC00490.jpg"  position="center" style="border-radius: 8px;" >}}
