@@ -29,7 +29,7 @@
       draft = false
       # FixIt 0.2.16 | NEW add fontawesome icon to a specific menu item
       icon = "fa-solid fa-archive"
-      # FixIt 0.2.16 | NEW set menu item type, optional value: ["mobile", "desktop"]
+      # FixIt 0.2.16 | NEW set menu item type, optional values: ["mobile", "desktop"]
       type = ""
   [[menu.main]]
     identifier = "categories"
@@ -149,8 +149,6 @@
   # Footer config
   [params.footer]
     enable = true
-    # FixIt 0.2.0 | NEW Custom content (HTML format is supported)
-    custom = ""
     # FixIt 0.2.0 | NEW whether to show Hugo and theme info
     hugo = true
     # FixIt 0.2.0 | NEW whether to show copyright info
@@ -194,6 +192,14 @@
     # amount of RSS pages
     rss = 10
 
+  # FixIt 0.2.17 | NEW TagCloud config for tags page
+  [params.tagcloud]
+    enable = false
+    min = 14 # Minimum font size in px
+    max = 32 # Maximum font size in px
+    peakCount = 10 # Maximum count of posts per tag
+    orderby = "name" # Order of tags, optional values: ["name", "count"]
+
   # Home page config
   [params.home]
     # FixIt 0.2.0 | NEW amount of RSS pages
@@ -205,6 +211,8 @@
       gravatarEmail = "xx@xx.com"
       # URL of avatar shown in home page
       avatarURL = ""
+      # FixIt 0.2.17 | NEW identifier of avatar menu link
+      avatarMenu = ""
       # FixIt 0.2.7 | CHANGED title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page
@@ -416,7 +424,7 @@
     [params.page.reward]
       enable = false
       animation = false
-      # position relative to post footer, optional value: ["before", "after"]
+      # position relative to post footer, optional values: ["before", "after"]
       position = "after"
       # comment = "Buy me a coffee"
       [params.page.reward.ways]
@@ -732,6 +740,13 @@
     light = ""
     dark = ""
     height = "2px"
+  
+  # FixIt 0.2.17 | NEW Define custom file paths
+  # Create your custom files in site directory `layouts/partials/custom` and uncomment needed files below
+  [params.customFilePath]
+    # aside = "custom/aside.html"
+    # profile = "custom/profile.html"
+    # footer = "custom/footer.html"
 
   # FixIt 0.2.15 | NEW Developer options
   [params.dev]

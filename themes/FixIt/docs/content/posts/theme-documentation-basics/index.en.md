@@ -123,7 +123,7 @@ theme = "FixIt"
       draft = false
       # add fontawesome icon to a specific menu item
       icon = "fa-solid fa-archive"
-      # set menu item type, optional value: ["mobile", "desktop"]
+      # set menu item type, optional values: ["mobile", "desktop"]
       type = ""
   [[menu.main]]
     identifier = "categories"
@@ -319,8 +319,8 @@ Please open the code block below to view the complete `config.toml` sample confi
   # Footer config
   [params.footer]
     enable = true
-    # {{< version 0.2.0 >}} Custom content (HTML format is supported)
-    custom = ""
+    # {{< version 0.2.0 >}} {{< version 0.2.17 deleted >}} Custom content (HTML format is supported)
+    # custom = ""
     # {{< version 0.2.0 >}} whether to show Hugo and theme info
     hugo = true
     # {{< version 0.2.0 >}} whether to show copyright info
@@ -364,6 +364,14 @@ Please open the code block below to view the complete `config.toml` sample confi
     # amount of RSS pages
     rss = 10
 
+  # {{< version 0.2.17 >}} TagCloud config for tags page
+  [params.tagcloud]
+    enable = false
+    min = 14 # Minimum font size in px
+    max = 32 # Maximum font size in px
+    peakCount = 10 # Maximum count of posts per tag
+    orderby = "name" # Order of tags, optional values: ["name", "count"]
+
   # Home page config
   [params.home]
     # {{< version 0.2.0 >}} amount of RSS pages
@@ -375,6 +383,8 @@ Please open the code block below to view the complete `config.toml` sample confi
       gravatarEmail = "xx@xx.com"
       # URL of avatar shown in home page
       avatarURL = ""
+      # {{< version 0.2.17 >}} identifier of avatar menu link
+      avatarMenu = ""
       # {{< version 0.2.7 changed >}} title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page
@@ -586,7 +596,7 @@ Please open the code block below to view the complete `config.toml` sample confi
     [params.page.reward]
       enable = false
       animation = false
-      # position relative to post footer, optional value: ["before", "after"]
+      # position relative to post footer, optional values: ["before", "after"]
       position = "after"
       # comment = "Buy me a coffee"
       [params.page.reward.ways]
@@ -906,6 +916,13 @@ Please open the code block below to view the complete `config.toml` sample confi
     dark = ""
     height = "2px"
 
+  # {{< version 0.2.17 >}} Define custom file paths
+  # Create your custom files in site directory `layouts/partials/custom` and uncomment needed files below
+  [params.customFilePath]
+    # aside = "custom/aside.html"
+    # profile = "custom/profile.html"
+    # footer = "custom/footer.html"
+
   # {{< version 0.2.15 >}} Developer options
   [params.dev]
     enable = false
@@ -1213,7 +1230,7 @@ The following is a complete menu item configuration:
       draft = false
       # {{< version 0.2.16 >}} add fontawesome icon to a specific menu item
       icon = "fa-solid fa-archive"
-      # {{< version 0.2.16 >}} set menu item type, optional value: ["mobile", "desktop"]
+      # {{< version 0.2.16 >}} set menu item type, optional values: ["mobile", "desktop"]
       type = ""
 ```
 
@@ -1234,7 +1251,7 @@ You can also add user-defined content to menu items via the `params` field. The 
 - **class** *{String}* add css class to a specific menu item
 - **draft** *{Boolean}* whether set as a draft menu item whose function is similar to a draft post/page
 - **icon** *{String}* {{< version 0.2.16 >}} add fontawesome icon to a specificmenu item
-- **type** *{String}* {{< version 0.2.16 >}} set menu item type, optional value: ["mobile", "desktop"]
+- **type** *{String}* {{< version 0.2.16 >}} set menu item type, optional values: ["mobile", "desktop"]
 
 {{< admonition >}}
 The draft menu items and posts/pages can be rendered by starting the `Hugo server` command or adding the `-D`/`--buildDrafts` parameter to `hugo` command.

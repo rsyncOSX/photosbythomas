@@ -320,8 +320,8 @@ hugo
   # 页面底部信息配置
   [params.footer]
     enable = true
-    # {{< version 0.2.0 >}} 自定义内容（支持 HTML 格式）
-    custom = ""
+    # {{< version 0.2.0 >}} {{< version 0.2.17 deleted >}} 自定义内容（支持 HTML 格式）
+    # custom = ""
     # {{< version 0.2.0 >}} 是否显示 Hugo 和主题信息
     hugo = true
     # {{< version 0.2.0 >}} 是否显示版权信息
@@ -365,6 +365,14 @@ hugo
     # RSS 文章数目
     rss = 10
 
+  # {{< version 0.2.17 >}} 标签云配置
+  [params.tagcloud]
+    enable = false
+    min = 14 # 最小字体大小，单位：px
+    max = 32 # 最大字体大小，单位：px
+    peakCount = 10 # 每个标签的最大文章数
+    orderby = "name" # 标签排序方式，可选值：["name", "count"]
+
   # 主页配置
   [params.home]
     # {{< version 0.2.0 >}} RSS 文章数目
@@ -376,6 +384,8 @@ hugo
       gravatarEmail = "xx@xx.com"
       # 主页显示头像的 URL
       avatarURL = ""
+      # {{< version 0.2.17 >}} 头像菜单链接的 identifier
+      avatarMenu = ""
       # {{< version 0.2.7 changed >}} 主页显示的网站标题（支持 HTML 格式）
       title = ""
       # 主页显示的网站副标题
@@ -906,6 +916,13 @@ hugo
     light = ""
     dark = ""
     height = "2px"
+
+  # {{< version 0.2.17 >}} 定义自定义文件路径
+  # 在站点目录 `layouts/partials/custom` 中创建您的自定义文件，并取消注释下面需要的文件
+  [params.customFilePath]
+    # aside = "custom/aside.html"
+    # profile = "custom/profile.html"
+    # footer = "custom/footer.html"
 
   # {{< version 0.2.15 >}} 开发者选项
   [params.dev]
