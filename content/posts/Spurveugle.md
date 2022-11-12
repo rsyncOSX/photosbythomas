@@ -1,6 +1,6 @@
 ---
 author: "Thomas Evensen"
-title: "Glaucidium passerinum (Eurasian pygmy owl)"
+title: "Glaucidium passerinum (eurasian pygmy owl)"
 date: 2022-11-12
 tags: ["eurasian pygmy owl","spurveugle"]
 categories: ["strigiformes","strigidae","ugler"]
@@ -8,7 +8,7 @@ categories: ["strigiformes","strigidae","ugler"]
 lightgallery: true
 ---
 
-Luscinia svecica or [Eurasian pygmy owl - Wikipedia](https://en.wikipedia.org/wiki/Eurasian_pygmy_owl) at Vikveien (Horten), Norway November 2022.
+Glaucidium passerinum or [Eurasian pygmy owl - Wikipedia](https://en.wikipedia.org/wiki/Eurasian_pygmy_owl) at Vikveien (Horten), Norway November 2022.
 
 By click on a photo you can enlarge and browse through all photos in this page by using the browser.
 
