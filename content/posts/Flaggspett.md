@@ -8,7 +8,7 @@ categories: ["piciformes","picidae","spetter"]
 lightgallery: true
 ---
 
-Dendrocopos major or [Great spotted woodpecker - Wikipedia](https://en.wikipedia.org/wiki/Great_spotted_woodpecker) photographed at Horten (Adalstjern) , Norway August 2022 . 
+Dendrocopos major or [Great spotted woodpecker - Wikipedia](https://en.wikipedia.org/wiki/Great_spotted_woodpecker) photographed at Hov, Norway September 2022 . 
 
 By click on a photo you can enlarge and browse through all photos in this page by using the browser.
 
