@@ -14,6 +14,6 @@ By click on a photo you can enlarge and browse through all photos in this page b
 
 In Norwegian: [Nøttekråke – Wikipedia](https://no.wikipedia.org/wiki/Nøttekråke).
 
-{{< image src="/images/DSC08611-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
+{{< image src="/images/DSC08702-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
 
 {{< image src="/images/DSC08352-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
