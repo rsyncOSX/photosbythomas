@@ -16,6 +16,4 @@ In Norwegian: [Svarttrost – Wikipedia](https://no.wikipedia.org/wiki/Svarttros
 
 {{< image src="/images/DSC08983-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
 
-{{< image src="/images/DSC08936-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
-
 {{< image src="/images/DSC08940-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}

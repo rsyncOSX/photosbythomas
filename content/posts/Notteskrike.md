@@ -17,5 +17,3 @@ In Norwegian: [Nøtteskrike – Wikipedia](https://no.wikipedia.org/wiki/Nøttes
 {{< image src="/images/DSC09035-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
 
 {{< image src="/images/DSC09007-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
-
-{{< image src="/images/DSC08645-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
