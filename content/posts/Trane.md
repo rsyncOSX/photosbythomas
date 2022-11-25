@@ -21,5 +21,3 @@ By click on a photo you can enlarge and browse through all photos in this page b
 {{< image src="/images/DSC05075-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
 
 {{< image src="/images/DSC05088-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
-
-{{< image src="/images/DSC01286-ARW_DxO_DeepPRIME-2.jpg"  position="center" style="border-radius: 8px;" >}}
