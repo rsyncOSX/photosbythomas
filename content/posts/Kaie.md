@@ -16,7 +16,5 @@ In Norwegian: [Kaie - Wikipedia](https://no.wikipedia.org/wiki/Kaie).
 
 {{< image src="/images/DSC08532-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
 
-{{< image src="/images/DSC08521-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
-
 {{< image src="/images/DSC08038.jpg"  position="center" style="border-radius: 8px;" >}}
 

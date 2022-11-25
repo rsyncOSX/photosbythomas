@@ -14,8 +14,6 @@ By click on a photo you can enlarge and browse through all photos in this page b
 
 In Norwegian: [Lirype – Wikipedia](https://no.wikipedia.org/wiki/Lirype).
 
-{{< image src="/images/DSC08238-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
-
 {{< image src="/images/DSC08223-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
 
 {{< image src="/images/DSC08199-ARW_DxO_DeepPRIME.jpg"  position="center" style="border-radius: 8px;" >}}
