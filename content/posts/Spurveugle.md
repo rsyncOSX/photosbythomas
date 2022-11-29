@@ -19,3 +19,5 @@ In Norwegian: [Spurveugle – Wikipedia](https://no.wikipedia.org/wiki/Spurveugl
 {{< image src="/images/DSC09500-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< image src="/images/DSC09476-ARW_DxO_DeepPRIME.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< image src="/images/DSC09545-Enhanced.jpg" position="center" style="border-radius: 8px;" >}}
