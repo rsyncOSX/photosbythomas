@@ -7,22 +7,28 @@ All notable changes to this project will be documented in this file.
 
 > Snapshot: <>
 
+- :tada: Feat: add support for [Fusejs search](https://fusejs.io/) ([#203](https://github.com/hugo-fixit/FixIt/issues/203))
 - :sparkles: Feat: add feature post reward support ([#216](https://github.com/hugo-fixit/FixIt/issues/216), @Lruihao[#234](https://github.com/hugo-fixit/FixIt/pull/234))
 - :sparkles: Feat: add reward shortcode support ([#216](https://github.com/hugo-fixit/FixIt/issues/216))
 - :sparkles: Feat: add TagCloud config support for tags page, see parameter `params.tagcloud` ([#235](https://github.com/hugo-fixit/FixIt/issues/235))
+- :sparkles: Feat: add [pace](https://github.com/CodeByZach/pace) support ([#190](https://github.com/hugo-fixit/FixIt/issues/190))
 - :sparkles: Feat: add custom templates and parameter `params.customFilePath` support
 - :sparkles: Feat: add feature end of post flag support ([#236](https://github.com/hugo-fixit/FixIt/issues/236))
+- :sparkles: Feat: refactor parameter `params.footer.siteTime`
 - :sparkles: Feat: add params to close wordcount and readingTime in post ([#209](https://github.com/hugo-fixit/FixIt/issues/209))
+- :sparkles: Feat: add parameter `params.footer.order` to order footer lines
 - :sparkles: Feat: add parameter `params.home.profile.avatarMenu`
 - :truck: Feat: migrate parameter `params.autoBookmark` to `params.page.autoBookmark` ([#55](https://github.com/hugo-fixit/FixIt/issues/55))
 - :truck: Feat: move `assets/data/emoji` to `assets/lib/valine/emoji/`
 - :zap: Perf: optimize close comment feature when the post has expired ([#204](https://github.com/hugo-fixit/FixIt/issues/204))
 - :zap: Perf: optimize sub menu position calculation in desktop header with css replace of javascript
+- :zap: Perf: enhance pangu spelling correction
 - :bug: Fix: remove the leading and trailing whitespace of the code string ([#205](https://github.com/hugo-fixit/FixIt/issues/205))
 - :bento: Fix: update webfonts for fontawesome 6.2.0 (@NicoDreamzZ[#228](https://github.com/hugo-fixit/FixIt/pull/228))
 - :bug: Fix: image shortcode/plugin lose the support for svg type files ([#210](https://github.com/hugo-fixit/FixIt/issues/210))
 - :bug: Fix: can't keep the static table of the contents in front of the post
 - :bug: Fix: escape hashtag character `#` in tag and category ([#245](https://github.com/hugo-fixit/FixIt/issues/245))
+- :bug: Fix: pangu.js cdn error
 - :globe_with_meridians: Docs(i18n): add missing translations for French + enhancements (@Kapusch[#247](https://github.com/hugo-fixit/FixIt/pull/247))
 - :lipstick: Style: refactor css style
 - :lipstick: Style: update home page stylesheet

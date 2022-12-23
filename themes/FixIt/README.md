@@ -136,7 +136,7 @@ You could add your FixIt site to the list in **nickname** lexicographical order 
 * **Sub Menu** supported
 * **Content Encryption** supported (Pages, Partial)
 * **Friends** page embedded template
-* **Search** supported by [Lunr.js](https://lunrjs.com/) or [algolia](https://www.algolia.com/)
+* **Search** supported by [Lunr.js](https://lunrjs.com/) or [algolia](https://www.algolia.com/) or [Fuse.js](https://fusejs.io/)
 * **Twemoji** supported
 * Automatically **highlighting** code
 * **Copy code** to clipboard with one click
@@ -210,6 +210,7 @@ Make sure that you follow [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) while contrib
 * [autocomplete-js](https://github.com/algolia/autocomplete)
 * [Lunr.js](https://lunrjs.com/)
 * [algoliasearch](https://github.com/algolia/algoliasearch-client-javascript)
+* [Fuse.js](https://fusejs.io/)
 * [lazysizes](https://github.com/aFarkas/lazysizes)
 * [object-fit-images](https://github.com/fregante/object-fit-images)
 * [Twemoji](https://github.com/twitter/twemoji)
@@ -237,6 +238,7 @@ Make sure that you follow [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) while contrib
 * [crypto-js](https://github.com/brix/crypto-js)
 * [vConsole](https://github.com/Tencent/vConsole)
 * [eruda](https://github.com/liriliri/eruda)
+* [pace](https://github.com/CodeByZach/pace)
 
 </details>
 
@@ -244,6 +246,7 @@ Make sure that you follow [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) while contrib
 <summary>The FixIt also draws on some features of the following projects, and thanks to their authors as well:</summary>
 
 * [DoIt](https://github.com/HEIGE-PCloud/DoIt)
+* [NexT](https://github.com/next-theme/hexo-theme-next)
 
 </details>
 

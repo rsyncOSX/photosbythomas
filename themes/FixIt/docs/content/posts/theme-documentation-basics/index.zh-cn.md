@@ -273,7 +273,7 @@ hugo
   # {{< version 0.2.0 >}} 搜索配置
   [params.search]
     enable = true
-    # 搜索引擎的类型 ["lunr", "algolia"]
+    # 搜索引擎的类型 ["lunr", "algolia", "fuse"]
     type = "lunr"
     # 文章内容最长索引长度
     contentLength = 4000
@@ -291,6 +291,17 @@ hugo
       index = ""
       appID = ""
       searchKey = ""
+    [params.search.fuse]
+      # {{< version 0.2.17 >}} https://fusejs.io/api/options.html
+      isCaseSensitive = false
+      minMatchCharLength = 2
+      findAllMatches = false
+      location = 0
+      threshold = 0.3
+      distance = 100
+      ignoreLocation = false
+      useExtendedSearch = false
+      ignoreFieldNorm = false
 
   # 页面头部导航栏配置
   [params.header]
@@ -330,8 +341,6 @@ hugo
     author = true
     # 网站创立年份
     since = 2021
-    # {{< version 0.2.14 >}} 网站创立时间
-    siteTime = "" # 例："2021-12-18T16:15:22+08:00"
     # {{< version 0.2.14 >}} 是否显示网站内容总字数
     wordCount = true
     # {{< version 0.2.12 >}} 公网安备信息，仅在中国使用（支持 HTML 格式）
@@ -340,6 +349,19 @@ hugo
     icp = ""
     # 许可协议信息（支持 HTML 格式）
     license = '<a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+    # {{< version 0.2.17 changed >}} 网站创立时间
+    [params.footer.siteTime]
+      animate = true
+      icon = "fa-solid fa-heartbeat"
+      pre = ""
+      value = "" # e.g. "2021-12-18T16:15:22+08:00"
+    # {{< version 0.2.17 >}} 页面底部行排序，可选值：["first", 0, 1, 2, 3, 4, 5, "last"]
+    [params.footer.order]
+      powered = 0
+      copyright = 0
+      statistics = 0
+      visitor = 0
+      beian = 0
 
   # {{< version 0.2.0 >}} Section（所有文章）页面配置
   [params.section]
@@ -797,6 +819,7 @@ hugo
   [params.pangu]
     # 适用于中文写作用户
     enable = false
+    selector = "article" # {{< version 0.2.17 >}}
   
   # {{< version 0.2.12 >}} 水印配置
   # 详细参数见 https://github.com/Lruihao/watermark#readme
@@ -828,9 +851,6 @@ hugo
     enable = true
     # 在文章中开启
     enablePost = false
-    # {{< version 0.2.14 changed >}} {{< version 0.2.15 deleted >}} 网站创立时间
-    # 参数 `ibruce.siteTime` 自 v0.2.14 起已弃用，请改用 `footer.siteTime`
-    # siteTime = "" # 例："2021-12-18T16:15:22+08:00"
 
   # 网站验证代码，用于 Google/Bing/Yandex/Pinterest/Baidu/360/Sogou
   [params.verification]
@@ -916,6 +936,18 @@ hugo
     light = ""
     dark = ""
     height = "2px"
+
+  # {{< version 0.2.17 >}} 页面加载期间顶部的进度条
+  # 有关详细信息：https://github.com/CodeByZach/pace
+  [params.pace]
+    enable = false
+    # 所有可用颜色：
+    # ["black", "blue", "green", "orange", "pink", "purple", "red", "silver", "white", "yellow"]
+    color = "blue"
+    # 所有可用主题：
+    # ["barber-shop", "big-counter", "bounce", "center-atom", "center-circle", "center-radar", "center-simple",
+    # "corner-indicator", "fill-left", "flash", "flat-top", "loading-bar", "mac-osx", "material", "minimal"]
+    theme = "minimal"
 
   # {{< version 0.2.17 >}} 定义自定义文件路径
   # 在站点目录 `layouts/partials/custom` 中创建您的自定义文件，并取消注释下面需要的文件
@@ -1468,7 +1500,7 @@ defaultContentLanguage = "zh-cn"
 ```toml
 [params.search]
   enable = true
-  # 搜索引擎的类型 ["lunr", "algolia"]
+  # 搜索引擎的类型 ["lunr", "algolia", "fuse"]
   type = "lunr"
   # 文章内容最长索引长度
   contentLength = 4000
@@ -1486,11 +1518,23 @@ defaultContentLanguage = "zh-cn"
     index = ""
     appID = ""
     searchKey = ""
+  [params.search.fuse]
+    # {{< version 0.2.17 >}} https://fusejs.io/api/options.html
+    isCaseSensitive = false
+    minMatchCharLength = 2
+    findAllMatches = false
+    location = 0
+    threshold = 0.3
+    distance = 100
+    ignoreLocation = false
+    useExtendedSearch = false
+    ignoreFieldNorm = false
 ```
 
 {{< admonition note "怎样选择搜索引擎？" >}}
 以下是两种搜索引擎的对比：
 
+- `fuse`: 简单，无需同步 `index.json`, 没有 `contentLength` 的限制, 性能高
 - `lunr`: 简单，无需同步 `index.json`, 没有 `contentLength` 的限制，但占用带宽大且性能低（特别是中文需要一个较大的分词依赖库）
 - `algolia`: 高性能并且占用带宽低，但需要同步 `index.json` 且有 `contentLength` 的限制
 

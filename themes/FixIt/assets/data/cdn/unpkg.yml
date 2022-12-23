@@ -35,6 +35,8 @@ libFiles:
   erudaJS: eruda@2.5.0/eruda.js
   # fontawesome-free@6.2.0 https://github.com/FortAwesome/Font-Awesome
   fontawesomeFreeCSS: '@fortawesome/fontawesome-free@6.2.0/css/all.min.css'
+  # fusejs@6.6.2 https://github.com/krisk/fuse
+  fuseJS: fuse.js@6.6.2/dist/fuse.min.js
   # gitalk@1.7.2 https://github.com/gitalk/gitalk
   gitalkCSS: gitalk@1.7.2/dist/gitalk.min.css
   gitalkJS: gitalk@1.7.2/dist/gitalk.min.js
@@ -64,6 +66,8 @@ libFiles:
   objectFitImagesJS: object-fit-images@3.2.4/dist/ofi.min.js
   # pangu.js@4.0.7 https://github.com/vinta/pangu.js
   panguJS: pangu@4.0.7/dist/browser/pangu.min.js
+  # pace-js@1.2.4 https://github.com/CodeByZach/pace
+  paceJS: pace-js@1.2.4
   # sharer.js@0.4.2 https://github.com/ellisonleao/sharer.js
   sharerJS: sharer.js@0.5.1/sharer.min.js
   # twemoji@13.1.0 https://github.com/twitter/twemoji

@@ -102,7 +102,7 @@
   # FixIt 0.2.0 | NEW Search config
   [params.search]
     enable = true
-    # type of search engine ["lunr", "algolia"]
+    # type of search engine ["lunr", "algolia", "fuse]
     type = "lunr"
     # max index length of the chunked content
     contentLength = 4000
@@ -120,6 +120,17 @@
       index = ""
       appID = ""
       searchKey = ""
+    [params.search.fuse]
+      # FixIt 0.2.17 | NEW https://fusejs.io/api/options.html
+      isCaseSensitive = false
+      minMatchCharLength = 2
+      findAllMatches = false
+      location = 0
+      threshold = 0.3
+      distance = 100
+      ignoreLocation = false
+      useExtendedSearch = false
+      ignoreFieldNorm = false
 
   # Header config
   [params.header]
@@ -157,8 +168,6 @@
     author = true
     # Site creation year
     since = 2021
-    # FixIt 0.2.14 | NEW Site creation time
-    siteTime = "" # e.g. "2021-12-18T16:15:22+08:00"
     # FixIt 0.2.14 | NEW whether to show total word count of site content
     wordCount = true
     # FixIt 0.2.12 | NEW Public network security only in China (HTML format is supported)
@@ -167,6 +176,19 @@
     icp = ""
     # license info (HTML format is supported)
     license = '<a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+    # FixIt 0.2.17 | CHANGED Site creation time
+    [params.footer.siteTime]
+      animate = true
+      icon = "fa-solid fa-heartbeat"
+      pre = ""
+      value = "" # e.g. "2021-12-18T16:15:22+08:00"
+    # FixIt 0.2.17 | NEW footer lines order, optional values: ["first", 0, 1, 2, 3, 4, 5, "last"]
+    [params.footer.order]
+      powered = 0
+      copyright = 0
+      statistics = 0
+      visitor = 0
+      beian = 0
 
   # FixIt 0.2.0 | NEW Section (all posts) page config
   [params.section]
@@ -624,6 +646,7 @@
   [params.pangu]
     # For Chinese writing
     enable = false
+    selector = "article" # FixIt 0.2.17 | NEW
 
   # FixIt 0.2.12 | NEW Watermark config
   # Detail config see https://github.com/Lruihao/watermark#readme
@@ -740,6 +763,18 @@
     light = ""
     dark = ""
     height = "2px"
+  
+  # FixIt 0.2.17 | NEW Progress bar in the top during page loading.
+  # For more information: https://github.com/CodeByZach/pace
+  [params.pace]
+    enable = false
+    # All available colors:
+    # ["black", "blue", "green", "orange", "pink", "purple", "red", "silver", "white", "yellow"]
+    color = "blue"
+    # All available themes:
+    # ["barber-shop", "big-counter", "bounce", "center-atom", "center-circle", "center-radar", "center-simple",
+    # "corner-indicator", "fill-left", "flash", "flat-top", "loading-bar", "mac-osx", "material", "minimal"]
+    theme = "minimal"
   
   # FixIt 0.2.17 | NEW Define custom file paths
   # Create your custom files in site directory `layouts/partials/custom` and uncomment needed files below

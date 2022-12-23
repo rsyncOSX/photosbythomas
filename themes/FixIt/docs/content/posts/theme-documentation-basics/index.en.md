@@ -272,7 +272,7 @@ Please open the code block below to view the complete `config.toml` sample confi
   # {{< version 0.2.0 >}} Search config
   [params.search]
     enable = true
-    # type of search engine ["lunr", "algolia"]
+    # type of search engine ["lunr", "algolia", "fuse"]
     type = "lunr"
     # max index length of the chunked content
     contentLength = 4000
@@ -290,6 +290,17 @@ Please open the code block below to view the complete `config.toml` sample confi
       index = ""
       appID = ""
       searchKey = ""
+    [params.search.fuse]
+      # {{< version 0.2.17 >}} https://fusejs.io/api/options.html
+      isCaseSensitive = false
+      minMatchCharLength = 2
+      findAllMatches = false
+      location = 0
+      threshold = 0.3
+      distance = 100
+      ignoreLocation = false
+      useExtendedSearch = false
+      ignoreFieldNorm = false
 
   # Header config
   [params.header]
@@ -329,8 +340,6 @@ Please open the code block below to view the complete `config.toml` sample confi
     author = true
     # Site creation year
     since = 2021
-    # {{< version 0.2.14 >}} Site creation time
-    siteTime = "" # e.g. "2021-12-18T16:15:22+08:00"
     # {{< version 0.2.14 >}} whether to show total word count of site content
     wordCount = true
     # {{< version 0.2.12 >}} Public network security only in China (HTML format is supported)
@@ -339,6 +348,19 @@ Please open the code block below to view the complete `config.toml` sample confi
     icp = ""
     # license info (HTML format is supported)
     license = '<a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+    # {{< version 0.2.17 changed >}} Site creation time
+    [params.footer.siteTime]
+      animate = true
+      icon = "fa-solid fa-heartbeat"
+      pre = ""
+      value = "" # e.g. "2021-12-18T16:15:22+08:00"
+    # {{< version 0.2.17 >}} footer lines order, optional values: ["first", 0, 1, 2, 3, 4, 5, "last"]
+    [params.footer.order]
+      powered = 0
+      copyright = 0
+      statistics = 0
+      visitor = 0
+      beian = 0
 
   # {{< version 0.2.0 >}} Section (all posts) page config
   [params.section]
@@ -796,6 +818,7 @@ Please open the code block below to view the complete `config.toml` sample confi
   [params.pangu]
     # For Chinese writing
     enable = false
+    selector = "article" # {{< version 0.2.17 >}}
 
   # {{< version 0.2.12 >}} Watermark config
   # Detail config see https://github.com/Lruihao/watermark#readme
@@ -827,9 +850,6 @@ Please open the code block below to view the complete `config.toml` sample confi
     enable = true
     # Enable in post meta
     enablePost = false
-    # {{< version 0.2.14 changed >}} {{< version 0.2.15 deleted >}} Site creation time
-    # The parameter `ibruce.siteTime` is deprecated since v0.2.14, use `footer.siteTime` instead
-    # siteTime = "" # e.g. "2021-12-18T16:15:22+08:00"
 
   # Site verification code config for Google/Bing/Yandex/Pinterest/Baidu/360/Sogou
   [params.verification]
@@ -915,6 +935,18 @@ Please open the code block below to view the complete `config.toml` sample confi
     light = ""
     dark = ""
     height = "2px"
+
+  # {{< version 0.2.17 >}} Progress bar in the top during page loading
+  # For more information: https://github.com/CodeByZach/pace
+  [params.pace]
+    enable = false
+    # All available colors:
+    # ["black", "blue", "green", "orange", "pink", "purple", "red", "silver", "white", "yellow"]
+    color = "blue"
+    # All available themes:
+    # ["barber-shop", "big-counter", "bounce", "center-atom", "center-circle", "center-radar", "center-simple",
+    # "corner-indicator", "fill-left", "flash", "flat-top", "loading-bar", "mac-osx", "material", "minimal"]
+    theme = "minimal"
 
   # {{< version 0.2.17 >}} Define custom file paths
   # Create your custom files in site directory `layouts/partials/custom` and uncomment needed files below
@@ -1466,7 +1498,7 @@ Here is the search configuration in your [site configuration](#site-configuratio
 ```toml
 [params.search]
   enable = true
-  # type of search engine ["lunr", "algolia"]
+  # type of search engine ["lunr", "algolia", "fuse"]
   type = "lunr"
   # max index length of the chunked content
   contentLength = 4000
@@ -1484,11 +1516,23 @@ Here is the search configuration in your [site configuration](#site-configuratio
     index = ""
     appID = ""
     searchKey = ""
+  [params.search.fuse]
+    # {{< version 0.2.17 >}} https://fusejs.io/api/options.html
+    isCaseSensitive = false
+    minMatchCharLength = 2
+    findAllMatches = false
+    location = 0
+    threshold = 0.3
+    distance = 100
+    ignoreLocation = false
+    useExtendedSearch = false
+    ignoreFieldNorm = false
 ```
 
 {{< admonition note "How to choose search engine?" >}}
 The following is a comparison of two search engines:
 
+- `fuse`: simple, no need to synchronize `index.json`, no limit for `contentLength`, high performance
 - `lunr`: simple, no need to synchronize `index.json`, no limit for `contentLength`,
   but high bandwidth and low performance (Especially for Chinese which needs a large segmentit library)
 - `algolia`: high performance and low bandwidth, but need to synchronize `index.json` and limit for `contentLength`
