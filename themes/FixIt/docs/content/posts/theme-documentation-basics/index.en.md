@@ -330,8 +330,9 @@ Please open the code block below to view the complete `config.toml` sample confi
   # Footer config
   [params.footer]
     enable = true
-    # {{< version 0.2.0 >}} {{< version 0.2.17 deleted >}} Custom content (HTML format is supported)
-    # custom = ""
+    # {{< version 0.2.17 changed >}} Custom content (HTML format is supported)
+    # For advanced use, see parameter `params.customFilePath.footer`
+    custom = ""
     # {{< version 0.2.0 >}} whether to show Hugo and theme info
     hugo = true
     # {{< version 0.2.0 >}} whether to show copyright info
@@ -350,6 +351,7 @@ Please open the code block below to view the complete `config.toml` sample confi
     license = '<a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
     # {{< version 0.2.17 changed >}} Site creation time
     [params.footer.siteTime]
+      enable = false
       animate = true
       icon = "fa-solid fa-heartbeat"
       pre = ""

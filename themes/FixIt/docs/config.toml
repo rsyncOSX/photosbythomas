@@ -119,7 +119,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   images = ["/logo.png"]
   # enable PWA since v0.2.12
   # 开启 PWA 支持 since v0.2.12
-  enablePWA = false
+  enablePWA = true
   # whether to add external Icon for external links automatically since v0.2.14
   # 是否自动显示外链图标 since v0.2.14
   externalIcon = true
@@ -235,6 +235,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # 页面底部信息配置
   [params.footer]
     enable = true
+    # FixIt 0.2.17 | CHANGED Custom content (HTML format is supported)
+    # For advanced use, see parameter `params.customFilePath.footer`
+    # FixIt 0.2.17 | 更改 自定义内容 (支持 HTML 格式)
+    # 进阶使用，见参数 `params.customFilePath.footer`
+    custom = ""
     # whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
     hugo = true
@@ -262,6 +267,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # FixIt 0.2.17 | CHANGED Site creation time
     # FixIt 0.2.17 | 更改 网站创立时间
     [params.footer.siteTime]
+      enable = true
       animate = true
       icon = "fa-solid fa-heartbeat"
       pre = ""
