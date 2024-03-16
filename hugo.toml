@@ -1,0 +1,46 @@
+copyright = "© Thomas Evensen"
+defaultContentLanguage = "en"
+disableKinds = ["taxonomy", "term"]
+enableRobotsTXT = true
+languageCode = "en"
+timeZone = "Europe/Oslo"
+timeout = "120s"
+title = "Photos by Thomas"
+theme = "gallery"
+
+[params]
+  defaultTheme = "dark"
+  description = "Example site for hugo-theme-gallery"
+  title = "My Gallery"
+  [params.author]
+    email = "thomeven@gmail.com"
+    name = "Thomas Evensen"
+  [params.socialIcons]
+    # facebook = "https://www.facebook.com/"
+    # instagram = "https://www.instagram.com/"
+  github = "https://github.com/nicokaiser/hugo-theme-gallery/"
+   #  youtube = "https://www.youtube.com/"
+    email = "mailto:thomeven@gmail.com"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML"]
+
+[imaging]
+  quality = 75
+  resampleFilter = "CatmullRom"
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription"
+
+#[menu]
+#  [[menu.footer]]
+#    name = "GitHub"
+#    url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+#    weight = 3
+
+[services]
+  [services.rss]
+    limit = 100
