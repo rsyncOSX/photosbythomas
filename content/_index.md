@@ -1,5 +1,5 @@
 ---
-description: Some photos by Thomas
+description: "Some photos by Thomas"
 #lastmod: 2023-07-05
 title: Gallery
 # featured_image: DSC01329_DxO.jpg # default: first image in this directory
