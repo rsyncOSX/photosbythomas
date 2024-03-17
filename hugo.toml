@@ -20,7 +20,7 @@ theme = "gallery"
     # instagram = "https://www.instagram.com/"
   github = "https://github.com/nicokaiser/hugo-theme-gallery/"
    #  youtube = "https://www.youtube.com/"
-    email = "mailto:thomeven@gmail.com"
+  email = "mailto:thomeven@gmail.com"
 
 [outputs]
   home = ["HTML", "RSS"]
