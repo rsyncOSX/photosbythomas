@@ -47,7 +47,7 @@ Great cormorant, Black-headed gull :
 - Phalacrocorax carbo or [Great cormorant - Wikipedia](https://en.wikipedia.org/wiki/Great_cormorant). In Norwegian: [Storskarv – Wikipedia](https://no.wikipedia.org/wiki/Storskarv)
 - Chroicocephalus ridibundus or [Black-headed gull - Wikipedia](https://en.wikipedia.org/wiki/Black-headed_gull). In Norwegian: [Hettemåke – Wikipedia](https://no.wikipedia.org/wiki/Hettem%C3%A5ke)
 
-White-throated dipper, Common redshank, Eurasian jay, Willow ptarmigan,  Siberian jay, European golden plover, [Mountain hare, Yellowhammer:
+White-throated dipper, Common redshank, Eurasian jay, Willow ptarmigan,  Siberian jay, European golden plover, Mountain hare, Yellowhammer:
 
 - Cinclus cinclus or [White-throated dipper - Wikipedia](https://en.wikipedia.org/wiki/White-throated_dipper). In Norwegian: [Fossekall – Wikipedia](https://no.wikipedia.org/wiki/Fossekall).
 - Tringa totanus or [Common redshank - Wikipedia](https://en.wikipedia.org/wiki/Common_redshank). In Norwegian: [Rødstilk – Wikipedia](https://no.wikipedia.org/wiki/R%C3%B8dstilk).
