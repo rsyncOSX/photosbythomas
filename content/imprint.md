@@ -47,7 +47,7 @@ Great cormorant, Black-headed gull :
 - Phalacrocorax carbo or [Great cormorant - Wikipedia](https://en.wikipedia.org/wiki/Great_cormorant). In Norwegian: [Storskarv – Wikipedia](https://no.wikipedia.org/wiki/Storskarv)
 - Chroicocephalus ridibundus or [Black-headed gull - Wikipedia](https://en.wikipedia.org/wiki/Black-headed_gull). In Norwegian: [Hettemåke – Wikipedia](https://no.wikipedia.org/wiki/Hettem%C3%A5ke)
 
-White-throated dipper, Common redshank, Eurasian jay, Willow ptarmigan,  Siberian jay, European golden plover, Mountain hare, Yellowhammer:
+White-throated dipper, Common redshank, Eurasian jay, Willow ptarmigan,  Siberian jay, European golden plover, Mountain hare, Yellowhammer, Eurasian bullfinch, Bluethroat, Eurasian nuthatch, Eurasian blue tit:
 
 - Cinclus cinclus or [White-throated dipper - Wikipedia](https://en.wikipedia.org/wiki/White-throated_dipper). In Norwegian: [Fossekall – Wikipedia](https://no.wikipedia.org/wiki/Fossekall).
 - Tringa totanus or [Common redshank - Wikipedia](https://en.wikipedia.org/wiki/Common_redshank). In Norwegian: [Rødstilk – Wikipedia](https://no.wikipedia.org/wiki/R%C3%B8dstilk).
@@ -55,7 +55,11 @@ White-throated dipper, Common redshank, Eurasian jay, Willow ptarmigan,  Siberia
 - Lagopus lagopus or [Willow ptarmigan - Wikipedia](https://en.wikipedia.org/wiki/Willow_ptarmigan).  In Norwegian: [Lirype – Wikipedia](https://no.wikipedia.org/wiki/Lirype).
 - Perisoreus infaustus or [Siberian jay - Wikipedia](https://en.wikipedia.org/wiki/Siberian_jay).  In Norwegian: [Lavskrike – Wikipedia](https://no.wikipedia.org/wiki/Lavskrike).
 - Pluvialis apricaria or [European golden plover - Wikipedia](https://en.wikipedia.org/wiki/European_golden_plover). In Norwegian: [Heilo – Wikipedia](https://no.wikipedia.org/wiki/Heilo).
-- Lepus timidus or [Mountain hare - Wikipedia](https://en.wikipedia.org/wiki/Mountain_hare). In Norwegian: [Hare – Wikipedia](https://no.wikipedia.org/wiki/Hare).
 - Emberiza citrinella or [Yellowhammer - Wikipedia](https://en.wikipedia.org/wiki/Yellowhammer).  In Norwegian: [Gulspurv – Wikipedia](https://no.wikipedia.org/wiki/Gulspurv).
+- Pyrrhula pyrrhula or [Eurasian bullfinch - Wikipedia](https://en.wikipedia.org/wiki/Eurasian_bullfinch). In Norwegian: [Dompap – Wikipedia](https://no.wikipedia.org/wiki/Dompap).
+- Luscinia svecica or [Bluethroat - Wikipedia](https://en.wikipedia.org/wiki/Bluethroat). In Norwegian: [Blåstrupe – Wikipedia](https://no.wikipedia.org/wiki/Bl%C3%A5strupe).
+- Sitta europaea or [Eurasian nuthatch - Wikipedia](https://en.wikipedia.org/wiki/Eurasian_nuthatch). In Norwegian: [Spettmeis – Wikipedia](https://no.wikipedia.org/wiki/Spettmeis).
+- Cyanistes caeruleus or [Eurasian blue tit - Wikipedia](https://en.wikipedia.org/wiki/Eurasian_blue_tit). In Norwegian: [Blåmeis – Wikipedia](https://no.wikipedia.org/wiki/Blåmeis).
+
 
 
