@@ -1,5 +1,5 @@
 ---
-description: A few owls
+description: "Short-eared owl, Tawny owl and Eurasian pygmy owl."
 featured_image: DSC04819_DxO.jpg
 menus: "main"
 sort_by: Name # Exif.Date
