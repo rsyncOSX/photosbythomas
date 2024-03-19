@@ -62,6 +62,7 @@ White-throated dipper, Common redshank, Eurasian jay, Willow ptarmigan,  Siberia
 - Cyanistes caeruleus or [Eurasian blue tit - Wikipedia](https://en.wikipedia.org/wiki/Eurasian_blue_tit). In Norwegian: [Blåmeis – Wikipedia](https://no.wikipedia.org/wiki/Blåmeis).
 - Certhia familiaris or [Eurasian treecreeper - Wikipedia](https://en.wikipedia.org/wiki/Eurasian_treecreeper). In Norwegian: [Trekryper – Wikipedia](https://no.wikipedia.org/wiki/Trekryper).
 - Aegithalos caudatus or [Long-tailed tit - Wikipedia](https://en.wikipedia.org/wiki/Long-tailed_tit). In Norwegian: [Stjertmeis – Wikipedia](https://nn.wikipedia.org/wiki/Stjertmeis).
+- Fratercula arctica or [Atlantic puffin - Wikipedia](https://en.wikipedia.org/wiki/Atlantic_puffin). In Norwegian: [Lunde (fugl) – Wikipedia](https://no.wikipedia.org/wiki/Lunde_(fugl)).
 
 
 
