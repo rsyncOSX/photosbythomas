@@ -63,6 +63,10 @@ White-throated dipper, Common redshank, Eurasian jay, Willow ptarmigan,  Siberia
 - Certhia familiaris or [Eurasian treecreeper - Wikipedia](https://en.wikipedia.org/wiki/Eurasian_treecreeper). In Norwegian: [Trekryper – Wikipedia](https://no.wikipedia.org/wiki/Trekryper).
 - Aegithalos caudatus or [Long-tailed tit - Wikipedia](https://en.wikipedia.org/wiki/Long-tailed_tit). In Norwegian: [Stjertmeis – Wikipedia](https://nn.wikipedia.org/wiki/Stjertmeis).
 - Fratercula arctica or [Atlantic puffin - Wikipedia](https://en.wikipedia.org/wiki/Atlantic_puffin). In Norwegian: [Lunde (fugl) – Wikipedia](https://no.wikipedia.org/wiki/Lunde_(fugl)).
+- Regulus regulus or [Goldcrest - Wikipedia](https://en.wikipedia.org/wiki/Goldcrest).  In Norwegian: [Fuglekonge – Wikipedia](https://no.wikipedia.org/wiki/Fuglekonge).
+- Ficedula hypoleuca or [European pied flycatcher - Wikipedia](https://en.wikipedia.org/wiki/European_pied_flycatcher). In Norwegian: [Svarthvit fluesnapper – Wikipedia](https://no.wikipedia.org/wiki/Svarthvit_fluesnapper).
+- Acanthis flammea or [Common redpoll - Wikipedia](https://en.wikipedia.org/wiki/Common_redpoll). In Norwegian: [Gråsisik – Wikipedia](https://no.wikipedia.org/wiki/Gråsisik).
+
 
 
 
