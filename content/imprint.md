@@ -60,6 +60,8 @@ White-throated dipper, Common redshank, Eurasian jay, Willow ptarmigan,  Siberia
 - Luscinia svecica or [Bluethroat - Wikipedia](https://en.wikipedia.org/wiki/Bluethroat). In Norwegian: [Blåstrupe – Wikipedia](https://no.wikipedia.org/wiki/Bl%C3%A5strupe).
 - Sitta europaea or [Eurasian nuthatch - Wikipedia](https://en.wikipedia.org/wiki/Eurasian_nuthatch). In Norwegian: [Spettmeis – Wikipedia](https://no.wikipedia.org/wiki/Spettmeis).
 - Cyanistes caeruleus or [Eurasian blue tit - Wikipedia](https://en.wikipedia.org/wiki/Eurasian_blue_tit). In Norwegian: [Blåmeis – Wikipedia](https://no.wikipedia.org/wiki/Blåmeis).
+- Certhia familiaris or [Eurasian treecreeper - Wikipedia](https://en.wikipedia.org/wiki/Eurasian_treecreeper). In Norwegian: [Trekryper – Wikipedia](https://no.wikipedia.org/wiki/Trekryper).
+- Aegithalos caudatus or [Long-tailed tit - Wikipedia](https://en.wikipedia.org/wiki/Long-tailed_tit). In Norwegian: [Stjertmeis – Wikipedia](https://nn.wikipedia.org/wiki/Stjertmeis).
 
 
 

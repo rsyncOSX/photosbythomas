@@ -1,5 +1,5 @@
 ---
-description:  "On this page there are photos of Hen harrier both female and male (myrhauk), Western marsh harrier (sivhauk), Eurasian goshawk (hønsehauk), Common buzzard (musvåk) and Eurasian sparrowhawk (spurvehauk)."
+description:  "In arbitrary order: Hen harrier, both female and male (myrhauk), Western marsh harrier (sivhauk), Eurasian goshawk (hønsehauk), Common buzzard (musvåk) and Eurasian sparrowhawk (spurvehauk)."
 featured_image: DSC07586_DxO.jpg
 menus: "main"
 sort_by: Name # Exif.Date
