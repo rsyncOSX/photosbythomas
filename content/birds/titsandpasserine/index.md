@@ -3,7 +3,7 @@ description: "In arbitrary order: Yellowhammer (gulspurv), Bluethroat (blåstrup
 featured_image: DSC02284_DxO.jpg
 sort_by: Name # Exif.Date
 sort_order: desc
-title: Tits, passerines, flycatcher
+title: Tits, passerines, flycatcher, finch
 #type: gallery
 weight: 3
 params:
