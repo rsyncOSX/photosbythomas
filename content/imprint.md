@@ -69,7 +69,8 @@ White-throated dipper, Common redshank, Eurasian jay, Willow ptarmigan,  Siberia
 - Grus grus or [Common crane - Wikipedia](https://en.wikipedia.org/wiki/Common_crane). In Norwegian: [Trane – Wikipedia](https://no.wikipedia.org/wiki/Trane).
 - Turdus merula or [Common blackbird - Wikipedia](https://en.wikipedia.org/wiki/Common_blackbird). In Norwegian: [Svarttrost – Wikipedia](https://no.wikipedia.org/wiki/Svarttrost).
 - Dryocopus martius or [Black woodpecker - Wikipedia](https://en.wikipedia.org/wiki/Black_woodpecker). In Norwegian: [Svartspett – Wikipedia](https://no.wikipedia.org/wiki/Svartspett).
-
+- Fringilla montifringilla or [Brambling - Wikipedia](https://en.wikipedia.org/wiki/Brambling). In Norwegian: [Bjørkefink – Wikipedia](https://nn.wikipedia.org/wiki/Bjørkefink).
+- Chloris chloris or [European greenfinch - Wikipedia](https://en.wikipedia.org/wiki/European_greenfinch). In Norwegian: [Grønnfink – Wikipedia](https://no.wikipedia.org/wiki/Grønnfink).
 
 
 
