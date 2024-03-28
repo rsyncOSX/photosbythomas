@@ -1,1 +1,1 @@
-https://newphotosbythomas.netlify.app
+https://photosbythomas.netlify.app
