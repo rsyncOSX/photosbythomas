@@ -1,0 +1,4 @@
+[submodule "themes/FixIt"]
+	path = themes/FixIt
+	url = https://github.com/rsyncOSX/FixIt.git
+	branch = MyFixIt

@@ -1,0 +1,4 @@
+git submodule add -b MyFixIt https://github.com/rsyncOSX/FixIt.git themes/FixIt
+git submodule update --remote --merge
+
+rm -rf public resources
