@@ -19,12 +19,14 @@ I am very lucky to have a couple nesting not far from my cabin in the mountains.
 
 # Gallery Birds
 
+{{< image src="/images/birds/henharrier/_DSC8347_DxO.jpg"  caption="Hen harrier" src_s="/images/birds/henharrier/thumbs/_DSC8347_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC8347_DxO.jpg" >}}
 {{< image src="/images/birds/henharrier/_DSC1958_DxO.jpg"  caption="Hen harrier" src_s="/images/birds/henharrier/thumbs/_DSC1958_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC1958_DxO.jpg" >}}
 {{< image src="/images/birds/henharrier/_DSC1404_DxO.jpg"  caption="Hen harrier" src_s="/images/birds/henharrier/thumbs/_DSC1404_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC1404_DxO.jpg" >}}
 {{< image src="/images/birds/henharrier/DSC04285_DxO.jpg"  caption="Hen harrier" src_s="/images/birds/henharrier/thumbs/DSC04285_DxO.jpg" src_l="/images/birds/henharrier/large/DSC04285_DxO.jpg" >}}
 {{< image src="/images/birds/henharrier/DSC04968_DxO.jpg"  caption="Hen harrier" src_s="/images/birds/henharrier/thumbs/DSC04968_DxO.jpg" src_l="/images/birds/henharrier/large/DSC04968_DxO.jpg" >}}
-{{< image src="/images/birds/henharrier/_DSC1921_DxO.jpg"  caption="Hen harrier" src_s="/images/birds/henharrier/thumbs/_DSC1921_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC1921_DxO.jpg" >}}
 {{< image src="/images/birds/henharrier/DSC04757_DxO.jpg"  caption="Hen harrier" src_s="/images/birds/henharrier/thumbs/DSC04757_DxO.jpg" src_l="/images/birds/henharrier/large/DSC04757_DxO.jpg" >}}
 
-{{< image src="/images/birds/henharrier/_DSC1718_DxO.jpg"  caption="Hen harrier" src_s="/images/birds/henharrier/thumbs/_DSC1718_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC1718_DxO.jpg" >}}
-{{< image src="/images/birds/henharrier/_DSC1726_DxO.jpg"  caption="Hen harrier" src_s="/images/birds/henharrier/thumbs/_DSC1726_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC1726_DxO.jpg" >}}
+{{< image src="/images/birds/henharrier/_DSC1649_DxO.jpg"  caption="Hen harrier, male with prey " src_s="/images/birds/henharrier/thumbs/_DSC1649_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC1649_DxO.jpg" >}}
+{{< image src="/images/birds/henharrier/_DSC1726_DxO.jpg"  caption="Hen harrier, male and female, he has just delivered a prey " src_s="/images/birds/henharrier/thumbs/_DSC1726_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC1726_DxO.jpg" >}}
+{{< image src="/images/birds/henharrier/_DSC8692_DxO.jpg"  caption="Hen harrier, male, hunting " src_s="/images/birds/henharrier/thumbs/_DSC8692_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC8692_DxO.jpg" >}}
+
