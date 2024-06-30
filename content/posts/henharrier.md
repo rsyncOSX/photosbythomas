@@ -6,10 +6,7 @@ tags: [hen harrier]
 categories: [birds, bird of prey]
 ---
 
-Hen Harrier, female and male. The male is grey and white with black wingtips. The Hen Harrier is critically endangered in Norway. Only a few hundred couples are nesting here.
-
-I am very lucky to have a couple nesting not far from my cabin in the mountains. In June 2024, I observed the male returning with prey and delivering the prey to the female.
-
+Hen Harrier, a male and female. The male is grey and white with black wingtips. I am very lucky to have a couple nesting not far from my cabin in the mountains. In June 2024, I observed the male returning with prey and delivering the prey to the female. The Hen Harrier is critically endangered in Norway. Only a few hundred couples are nesting here.  
 
 # Wikipedia
 
