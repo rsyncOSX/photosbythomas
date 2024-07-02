@@ -6,7 +6,9 @@ tags: [hen harrier]
 categories: [birds, bird of prey]
 ---
 
-Hen Harrier, a male and female. The male is grey and white with black wingtips. I am very lucky to have a couple nesting not far from my cabin in the mountains. In June 2024, I observed the male returning with prey and delivering the prey to the female. The Hen Harrier is critically endangered in Norway. Only a few hundred couples are nesting here.  
+Hen Harrier, a male and female. The male is grey and white with black wingtips. I am very lucky to have a couple nesting not far from my cabin in the mountains. In June 2024, I observed the male returning with prey and delivering the prey to the female. The Hen Harrier is critically endangered in Norway. Only a few hundred couples are nesting here. 
+
+In July 2024 I was joining licensed bird bander for banding the young ones. The two last pictures are from when we approached the nest for banding.
 
 # Wikipedia
 
@@ -26,4 +28,5 @@ Hen Harrier, a male and female. The male is grey and white with black wingtips. 
 {{< image src="/images/birds/henharrier/_DSC1649_DxO.jpg"  caption="Hen harrier, male with prey for delivery." src_s="/images/birds/henharrier/thumbs/_DSC1649_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC1649_DxO.jpg" >}}
 {{< image src="/images/birds/henharrier/_DSC1726_DxO.jpg"  caption="Hen harrier, male and female, he has just delivered a prey to the female." src_s="/images/birds/henharrier/thumbs/_DSC1726_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC1726_DxO.jpg" >}}
 {{< image src="/images/birds/henharrier/_DSC8692_DxO.jpg"  caption="Hen harrier, male, hunting." src_s="/images/birds/henharrier/thumbs/_DSC8692_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC8692_DxO.jpg" >}}
+{{< image src="/images/birds/henharrier/_DSC9885_DxO.jpg"  caption="Hen harrier, female, leaving the nest." src_s="/images/birds/henharrier/thumbs/_DSC9885_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC9885_DxO.jpg" >}}{{< image src="/images/birds/henharrier/_DSC9887_DxO.jpg"  caption="Hen harrier, female, leaving the nest." src_s="/images/birds/henharrier/thumbs/_DSC9887_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC9887_DxO.jpg" >}}
 
