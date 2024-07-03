@@ -1,6 +1,6 @@
 ---
 title: About me and this web
-date: 2024-06-19
+date: 2024-07-03
 tags: [about]
 ---
 
@@ -14,7 +14,7 @@ There are also some photos of wild animals. Some animals were just discovered; e
 
 #  Nature
 
-I have, as long as I can remember, loved being in nature. Photography has also been one of my hobbies for years. Nature and wildlife are under pressure. Some too many politicians do not understand the importance of preserving nature and wildlife. Every day I learn more about nature, how fragile it is, and how everything in nature is somehow connected. And humans are experts in destroying nature through ignorance and economic motivations. That frightens me.
+I have, as long as I can remember, loved being in nature. Photography has also been one of my hobbies for years. Nature and wildlife are under pressure. Many politicians do not understand the importance of preserving nature and wildlife. Every day I learn more about nature, how fragile it is, and how everything in nature is somehow connected. And humans are experts in destroying nature through ignorance and economic motivations. That frightens me.
 
 # Sony gear
 
