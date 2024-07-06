@@ -42,4 +42,5 @@ Shorebirds. The Black-tailed godwit is critical threatened in Norway. According 
 
 {{< image src="/images/birds/shorebirds/DSC02578_DxO.jpg"  caption="Common redshank" src_s="/images/birds/shorebirds/thumbs/DSC02578_DxO.jpg" src_l="/images/birds/shorebirds/large/DSC02578_DxO.jpg" >}}
 {{< image src="/images/birds/shorebirds/DSC02274_DxO.jpg"  caption="Common redshank" src_s="/images/birds/shorebirds/thumbs/DSC02274_DxO.jpg" src_l="/images/birds/shorebirds/large/DSC02274_DxO.jpg" >}}
-{{< image src="/images/birds/shorebirds/DSC06030_DxO.jpg"  caption="Wood sandpipe" src_s="/images/birds/shorebirds/thumbs/DSC06030_DxO.jpg" src_l="/images/birds/shorebirds/large/DSC06030_DxO.jpg" >}}
+{{< image src="/images/birds/shorebirds/DSC06030_DxO.jpg"  caption="Wood sandpiper" src_s="/images/birds/shorebirds/thumbs/DSC06030_DxO.jpg" src_l="/images/birds/shorebirds/large/DSC06030_DxO.jpg" >}}
+{{< image src="/images/birds/shorebirds/_DSC0902_DxO.jpg"  caption="Common sandpiper" src_s="/images/birds/shorebirds/thumbs/_DSC0902_DxO.jpg" src_l="/images/birds/shorebirds/large/_DSC0902_DxO.jpg" >}}
