@@ -4,13 +4,13 @@ date: 2024-07-03
 tags: [about]
 ---
 
-My name is Thomas,  [thomeven@gmail.com](mailto:thomeven@gmail.com). I retired from work in April 2022 at the age of 62 and I am a passionate photographer of wildlife and love staying in [the Norwegian mountains](https://toppturer.netlify.app). Grandkids, photography, continued maintenance of my macOS application RsyncUI , and being in the Norwegian mountains keep me busy.
+My name is Thomas,  [thomeven@gmail.com](mailto:thomeven@gmail.com). I retired from work in April 2022 at the age of 62 and I am a passionate photographer of wildlife. Grandkids, photography, macOS development and being in the Norwegian mountains keep me busy.
 
 # Birds
 
-Most of all, I capture photos of birds. Some birds are used to people and easy to photograph. Others, again, like birds of prey, are very shy, and a photo hide is almost required to get a photo of them. Bird photo is about 90% travel and waiting. But all the waiting does pay off when the bird you are waiting for shows up.
+Most of all, I capture photos of birds. Bird photo is about 90% waiting and traveling. My knowledge of birds is still minimal and I am learning something new almost daily. Most important is; to respect the birds and not chase them. Learn about where the different species are and sit down. 
 
-There are also some photos of wild animals. Some animals were just discovered; e.g., I was in the right spot at the right time, and the camera was ready. Muskox and moose are captured on photo trips in Norway. Mostly, I capture photos of birds, but wild animals are also very exciting to take photos of.
+There are also some photos of wild animals. Some animals were just discovered; e.g., I was in the right spot at the right time, and the camera was ready. Muskox and moose are captured on photo trips in Norway.
 
 #  Nature
 

@@ -177,6 +177,14 @@ enableEmoji = true
         name = "Categories"
         url = "/categories/"
         title = ""
+      [[languages.en.menu.main]]
+        weight = 4
+        identifier = "about"
+        pre = ""
+        post = ""
+        name = "About"
+        url = "/about/"
+        title = ""
     [languages.en.params]
       [languages.en.params.home]
         [languages.en.params.home.profile]
