@@ -6,11 +6,11 @@ tags: [hen harrier]
 categories: [birds, bird of prey]
 ---
 
-Hen Harrier, male and female. The male is grey and white with black wingtips. There is a Hen Harrier couple nesting close to my cabin in the mountains. In late May 2024 I observed the female building a nest. And about mid June 2024 I observed the male returning with prey delivering it to the female. 
+Hen Harrier, male and female. The male is grey and white with black wingtips. There is a Hen Harrier couple nesting close to my cabin in the mountains. In late May 2024, I observed the female building a nest. And about mid-June 2024 I observed the male returning with prey delivering it to the female. 
 
-In July 2024 I was joining a licensed bird bander for banding the young ones. The two last pictures are from when we approached the nest for banding. The female did not leave the nest before we were really close to it.
+In July 2024 I was joining a licensed bird bander for banding the young ones. We checked the nest in the first week of July and there was one chick and three eggs. The chick was at that time too small to get a band and we decided to return for banding one week later. But very sadly, a predator had attacked the nest and there were no chicks or eggs in the nest. 
 
-The Hen Harrier is critically endangered in Norway. According to official numbers there are only about a hundred couples in Norway. 
+The Hen Harrier is critically endangered in Norway. According to official numbers, there are only about a hundred couples in Norway. 
 
 # Wikipedia
 
@@ -22,13 +22,18 @@ The Hen Harrier is critically endangered in Norway. According to official number
 
 {{< image src="/images/birds/henharrier/_DSC8347_DxO.jpg"  caption="The male Hen Harrier,  grey and white with black wingtips." src_s="/images/birds/henharrier/thumbs/_DSC8347_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC8347_DxO.jpg" >}}
 {{< image src="/images/birds/henharrier/_DSC1958_DxO.jpg"  caption="" src_s="/images/birds/henharrier/thumbs/_DSC1958_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC1958_DxO.jpg" >}}
-{{< image src="/images/birds/henharrier/_DSC1404_DxO.jpg"  caption="" src_s="/images/birds/henharrier/thumbs/_DSC1404_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC1404_DxO.jpg" >}}
 {{< image src="/images/birds/henharrier/DSC04285_DxO.jpg"  caption="The female Hen Harrier." src_s="/images/birds/henharrier/thumbs/DSC04285_DxO.jpg" src_l="/images/birds/henharrier/large/DSC04285_DxO.jpg" >}}
 {{< image src="/images/birds/henharrier/DSC04968_DxO.jpg"  caption="" src_s="/images/birds/henharrier/thumbs/DSC04968_DxO.jpg" src_l="/images/birds/henharrier/large/DSC04968_DxO.jpg" >}}
 {{< image src="/images/birds/henharrier/DSC04757_DxO.jpg"  caption="" src_s="/images/birds/henharrier/thumbs/DSC04757_DxO.jpg" src_l="/images/birds/henharrier/large/DSC04757_DxO.jpg" >}}
-
 {{< image src="/images/birds/henharrier/_DSC1649_DxO.jpg"  caption="Hen Harrier, male with prey for delivery." src_s="/images/birds/henharrier/thumbs/_DSC1649_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC1649_DxO.jpg" >}}
 {{< image src="/images/birds/henharrier/_DSC1726_DxO.jpg"  caption="Hen Harrier, male and female, he has just delivered a prey to the female." src_s="/images/birds/henharrier/thumbs/_DSC1726_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC1726_DxO.jpg" >}}
 {{< image src="/images/birds/henharrier/_DSC8692_DxO.jpg"  caption="Hen Harrier, male, hunting." src_s="/images/birds/henharrier/thumbs/_DSC8692_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC8692_DxO.jpg" >}}
-{{< image src="/images/birds/henharrier/_DSC9885_DxO.jpg"  caption="Hen Harrier, female, leaving the nest." src_s="/images/birds/henharrier/thumbs/_DSC9885_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC9885_DxO.jpg" >}}{{< image src="/images/birds/henharrier/_DSC9887_DxO.jpg"  caption="Hen Harrier, female, leaving the nest." src_s="/images/birds/henharrier/thumbs/_DSC9887_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC9887_DxO.jpg" >}}
+{{< image src="/images/birds/henharrier/_DSC9885_DxO.jpg"  caption="Hen Harrier, female, leaving the nest." src_s="/images/birds/henharrier/thumbs/_DSC9885_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC9885_DxO.jpg" >}}
+
+# The nest and a brutal nature
+
+The second week of July 2024 we approached the nest again for banding. But very sadly a predator, most likely a fox, has attacked the nest. This is how nature is, brutal. I also observed the male Hen Harrier returning with chicks that he had caught for eating and delivering to the female on the nest.
+
+{{< image src="/images/birds/henharrier/_DSC9926_DxO.jpg"  caption="A chick, to small for banding at that moment." src_s="/images/birds/henharrier/thumbs/_DSC9926_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC9926_DxO.jpg" >}}
+{{< image src="/images/birds/henharrier/_DSC5516_DxO.jpg"  caption="I took this photo of a fox very close to the nest." src_s="/images/birds/henharrier/thumbs/_DSC5516_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC5516_DxO.jpg" >}}
 
