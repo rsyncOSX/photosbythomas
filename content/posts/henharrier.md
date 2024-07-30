@@ -20,7 +20,7 @@ The Hen Harrier is critically endangered in Norway. According to official number
 | ----------- | ----------- |   ----------- |
 |  Circus cyaneus |  [Hen harrier](https://en.wikipedia.org/wiki/Hen_harrier) |  [Myrhauk](https://no.wikipedia.org/wiki/Myrhauk) |
 
-# Gallery Birds
+# Gallery
 
 {{< image src="/images/birds/henharrier/_DSC8347_DxO.jpg"  caption="The male Hen Harrier,  grey and white with black wingtips." src_s="/images/birds/henharrier/thumbs/_DSC8347_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC8347_DxO.jpg" >}}
 {{< image src="/images/birds/henharrier/_DSC1958_DxO.jpg"  caption="" src_s="/images/birds/henharrier/thumbs/_DSC1958_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC1958_DxO.jpg" >}}
