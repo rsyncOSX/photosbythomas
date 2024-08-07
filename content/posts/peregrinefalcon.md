@@ -6,7 +6,7 @@ tags: [peregrine falcon]
 categories: [birds, bird of prey]
 ---
 
-Common kestrel.
+Peregrine falcon.
 
 # Wikipedia
 
@@ -16,5 +16,6 @@ Common kestrel.
 
 # Gallery
 
-{{< image src="/images/birds/peregrinefalcon/_DSC2443_DxO.jpg"  caption="Peregrine falcon" src_s="/images/birds/peregrinefalcon/thumbs/_DSC2443_DxO.jpg" src_l="/images/birds/peregrinefalcon/large/_DSC2443_DxO.jpg" >}}
+{{< image src="/images/birds/peregrinefalcon/_DSC2458_DxO.jpg"  caption="Peregrine falcon" src_s="/images/birds/peregrinefalcon/thumbs/_DSC2458_DxO.jpg" src_l="/images/birds/peregrinefalcon/large/_DSC2458_DxO.jpg" >}}
+{{< image src="/images/birds/peregrinefalcon/_DSC2364_DxO.jpg"  caption="Peregrine falcon" src_s="/images/birds/peregrinefalcon/thumbs/_DSC2364_DxO.jpg" src_l="/images/birds/peregrinefalcon/large/_DSC2364_DxO.jpg" >}}
 {{< image src="/images/birds/peregrinefalcon/_DSC2421_DxO.jpg"  caption="Peregrine falcon" src_s="/images/birds/peregrinefalcon/thumbs/_DSC2421_DxO.jpg" src_l="/images/birds/peregrinefalcon/large/_DSC2421_DxO.jpg" >}}
