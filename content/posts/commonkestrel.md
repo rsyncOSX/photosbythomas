@@ -16,8 +16,8 @@ Common kestrel.
 
 # Gallery
 
-{{< image src="/images/birds/commonkestrel/_DSC1502_DxO.jpg"  caption="Common kestrel" src_s="/images/birds/commonkestrel/thumbs/_DSC1502_DxO.jpg" src_l="/images/birds/commonkestrel/large/_DSC1502_DxO.jpg" >}}
-{{< image src="/images/birds/commonkestrel/_DSC1776_DxO.jpg"  caption="Common kestrel" src_s="/images/birds/commonkestrel/thumbs/_DSC1776_DxO.jpg" src_l="/images/birds/commonkestrel/large/_DSC1776_DxO.jpg" >}}
-{{< image src="/images/birds/commonkestrel/_DSC1672_DxO.jpg"  caption="Common kestrel" src_s="/images/birds/commonkestrel/thumbs/_DSC1672_DxO.jpg" src_l="/images/birds/commonkestrel/large/_DSC1672_DxO.jpg" >}}
-{{< image src="/images/birds/commonkestrel/_DSC1707_DxO.jpg"  caption="Common kestrel" src_s="/images/birds/commonkestrel/thumbs/_DSC1707_DxO.jpg" src_l="/images/birds/commonkestrel/large/_DSC1707_DxO.jpg" >}}
-{{< image src="/images/birds/commonkestrel/_DSC1772_DxO.jpg"  caption="Common kestrel" src_s="/images/birds/commonkestrel/thumbs/_DSC1772_DxO.jpg" src_l="/images/birds/commonkestrel/large/_DSC1772_DxO.jpg" >}}
+{{< image src="/images/birds/commonkestrel/_DSC1502_DxO.jpg"  caption="Common kestrel, female" src_s="/images/birds/commonkestrel/thumbs/_DSC1502_DxO.jpg" src_l="/images/birds/commonkestrel/large/_DSC1502_DxO.jpg" >}}
+{{< image src="/images/birds/commonkestrel/_DSC1776_DxO.jpg"  caption="Common kestrel, the male hunting" src_s="/images/birds/commonkestrel/thumbs/_DSC1776_DxO.jpg" src_l="/images/birds/commonkestrel/large/_DSC1776_DxO.jpg" >}}
+{{< image src="/images/birds/commonkestrel/_DSC1672_DxO.jpg"  caption="The female" src_s="/images/birds/commonkestrel/thumbs/_DSC1672_DxO.jpg" src_l="/images/birds/commonkestrel/large/_DSC1672_DxO.jpg" >}}
+{{< image src="/images/birds/commonkestrel/_DSC1707_DxO.jpg"  caption="The female" src_s="/images/birds/commonkestrel/thumbs/_DSC1707_DxO.jpg" src_l="/images/birds/commonkestrel/large/_DSC1707_DxO.jpg" >}}
+{{< image src="/images/birds/commonkestrel/_DSC1772_DxO.jpg"  caption="The male hunting" src_s="/images/birds/commonkestrel/thumbs/_DSC1772_DxO.jpg" src_l="/images/birds/commonkestrel/large/_DSC1772_DxO.jpg" >}}

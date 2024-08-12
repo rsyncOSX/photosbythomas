@@ -23,10 +23,17 @@ The Hen Harrier is critically endangered in Norway. According to official number
 # Gallery
 
 {{< image src="/images/birds/henharrier/_DSC8347_DxO.jpg"  caption="The male Hen Harrier,  grey and white with black wingtips." src_s="/images/birds/henharrier/thumbs/_DSC8347_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC8347_DxO.jpg" >}}
+
 {{< image src="/images/birds/henharrier/_DSC1958_DxO.jpg"  caption="" src_s="/images/birds/henharrier/thumbs/_DSC1958_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC1958_DxO.jpg" >}}
+
 {{< image src="/images/birds/henharrier/DSC04285_DxO.jpg"  caption="The female Hen Harrier." src_s="/images/birds/henharrier/thumbs/DSC04285_DxO.jpg" src_l="/images/birds/henharrier/large/DSC04285_DxO.jpg" >}}
+
 {{< image src="/images/birds/henharrier/DSC04968_DxO.jpg"  caption="" src_s="/images/birds/henharrier/thumbs/DSC04968_DxO.jpg" src_l="/images/birds/henharrier/large/DSC04968_DxO.jpg" >}}
+
 {{< image src="/images/birds/henharrier/DSC04757_DxO.jpg"  caption="" src_s="/images/birds/henharrier/thumbs/DSC04757_DxO.jpg" src_l="/images/birds/henharrier/large/DSC04757_DxO.jpg" >}}
-{{< image src="/images/birds/henharrier/_DSC1649_DxO.jpg"  caption="Hen Harrier, male with prey for delivery." src_s="/images/birds/henharrier/thumbs/_DSC1649_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC1649_DxO.jpg" >}}
-{{< image src="/images/birds/henharrier/_DSC8711_DxO.jpg"  caption="Hen Harrier, male, hunting." src_s="/images/birds/henharrier/thumbs/_DSC8711_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC8711_DxO.jpg" >}}
-{{< image src="/images/birds/henharrier/_DSC9885_DxO.jpg"  caption="Hen Harrier, female." src_s="/images/birds/henharrier/thumbs/_DSC9885_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC9885_DxO.jpg" >}}
+
+{{< image src="/images/birds/henharrier/_DSC1649_DxO.jpg"  caption="The male with prey for delivery." src_s="/images/birds/henharrier/thumbs/_DSC1649_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC1649_DxO.jpg" >}}
+
+{{< image src="/images/birds/henharrier/_DSC8711_DxO.jpg"  caption="The male hunting." src_s="/images/birds/henharrier/thumbs/_DSC8711_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC8711_DxO.jpg" >}}
+
+{{< image src="/images/birds/henharrier/_DSC9885_DxO.jpg"  src_s="/images/birds/henharrier/thumbs/_DSC9885_DxO.jpg" src_l="/images/birds/henharrier/large/_DSC9885_DxO.jpg" >}}
