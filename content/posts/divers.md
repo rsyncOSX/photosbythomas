@@ -6,7 +6,7 @@ tags: [divers]
 categories: [birds]
 ---
 
-A few diving ducks. One the bird is red listet, the Smew. The photo of Smew is a female, a beautiful bird.
+A few diving ducks. The Smew is red listet. The photo of Smew is a female, a beautiful bird.
 
 # Wikipedia 
 
@@ -18,7 +18,7 @@ A few diving ducks. One the bird is red listet, the Smew. The photo of Smew is a
 | Mergus merganser  | [Common merganser](https://en.wikipedia.org/wiki/Common_merganser) |   [Laksand](https://no.wikipedia.org/wiki/Laksand) |
 | Mergus serrator  |  [Red-breasted merganser](https://en.wikipedia.org/wiki/Red-breasted_merganser) |  [Siland](https://no.wikipedia.org/wiki/Siland) |
 
-# Gallery Birds
+# Gallery Divers
 
 {{< image src="/images/birds/grebes/DSC02339_DxO.jpg"  caption="Smew" src_s="/images/birds/grebes/thumbs/DSC02339_DxO.jpg" src_l="/images/birds/grebes/large/DSC02339_DxO.jpg" >}}
 {{< image src="/images/birds/grebes/_DSC8297_DxO.jpg"  caption="Black-throated loon" src_s="/images/birds/grebes/thumbs/_DSC8297_DxO.jpg" src_l="/images/birds/grebes/large/_DSC8297_DxO.jpg" >}}

@@ -6,7 +6,7 @@ tags: [peregrine falcon]
 categories: [birds, bird of prey]
 ---
 
-Peregrine falcon.
+Peregrine falcon, the fastest animal on earth. The falcon can reach a speed up to 350 km/h when hunting. Impressive.
 
 # Wikipedia
 
@@ -18,4 +18,3 @@ Peregrine falcon.
 
 {{< image src="/images/birds/peregrinefalcon/_DSC2458_DxO.jpg"  src_s="/images/birds/peregrinefalcon/thumbs/_DSC2458_DxO.jpg" src_l="/images/birds/peregrinefalcon/large/_DSC2458_DxO.jpg" >}}
 {{< image src="/images/birds/peregrinefalcon/_DSC2364_DxO.jpg" src_s="/images/birds/peregrinefalcon/thumbs/_DSC2364_DxO.jpg" src_l="/images/birds/peregrinefalcon/large/_DSC2364_DxO.jpg" >}}
-{{< image src="/images/birds/peregrinefalcon/_DSC2421_DxO.jpg"  src_s="/images/birds/peregrinefalcon/thumbs/_DSC2421_DxO.jpg" src_l="/images/birds/peregrinefalcon/large/_DSC2421_DxO.jpg" >}}

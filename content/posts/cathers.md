@@ -5,16 +5,17 @@ subtitle: A few flycatchers
 tags: [flycatcher]
 categories: [birds]
 ---
-A few flycatchers.
+A few flycatchers. The Common redstart is in my opinion one the mots beautiful small birds in Norway.
 
 # Wikipedia 
 
 | Latin      | UK | Norwegian | 
 | ----------- | ----------- |   ----------- |
-| Luscinia svecica | [Bluethroat](https://en.wikipedia.org/wiki/Bluethroat) |  [Blåstrupe](https://no.wikipedia.org/wiki/Bl%C3%A5strupe) |
+| Phoenicurus phoenicurus | [Common redstart](https://en.wikipedia.org/wiki/Common_redstart) |  [Rødstjert](https://no.wikipedia.org/wiki/Rødstjert) |
 | Ficedula hypoleuca | [European pied flycatcher](https://en.wikipedia.org/wiki/European_pied_flycatcher) |  [Svarthvit fluesnapper](https://no.wikipedia.org/wiki/Svarthvit_fluesnapper) |
 | Erithacus rubecula | [European robin](https://en.wikipedia.org/wiki/European_robin) |  [Rødstrupe](https://no.wikipedia.org/wiki/Rødstrupe) |
-| Phoenicurus phoenicurus | [Common redstart](https://en.wikipedia.org/wiki/Common_redstart) |  [Rødstjert](https://no.wikipedia.org/wiki/Rødstjert) |
+| Luscinia svecica | [Bluethroat](https://en.wikipedia.org/wiki/Bluethroat) |  [Blåstrupe](https://no.wikipedia.org/wiki/Bl%C3%A5strupe) |
+
 
 # Gallery flycatchers
 
