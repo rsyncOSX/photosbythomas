@@ -18,7 +18,7 @@ I have, as long as I can remember, loved being in nature. Photography has also b
 
 # Sony gear
 
-For the last 5 years, I have only used Sony gear. Previous Sony camera bodies are Sony fullframes A7iii and Sony A9ii. I have also used lenses from Tamron and Sigma, but all are sold. My gear now is:
+For the last 5 years, I have only used Sony gear. Previous Sony camera bodies are Sony fullframes A7iii and Sony A9ii. I have also used lenses from Tamron and Sigma, but all are sold. My gear now:
 
 - Sony full-frame A1 camera body
 - Sony FE 600mm F4.0 GM OSS lens
