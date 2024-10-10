@@ -5,7 +5,6 @@ date: 2024-07-22
 tags: [common kestrel]
 categories: [birds, bird of prey]
 ---
-
 Common kestrel.
 
 # Wikipedia
