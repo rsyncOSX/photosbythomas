@@ -7,6 +7,8 @@ categories: [birds]
 ---
 Eurasian nuthatch, Eurasian blue tit,  Long-tailed tit and yellowhammer.
 
+<!--more-->
+
 # Wikipedia 
 
 | Latin      | UK | Norwegian | 

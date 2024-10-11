@@ -8,13 +8,15 @@ categories: [birds, bird of prey]
 
 Western marsh harrier.
 
+<!--more-->
+
 # Wikipedia
 
 | Latin      | UK | Norwegian |
 | ----------- | ----------- |   ----------- |
 |  Circus aeruginosus |  [Western marsh harrier](https://en.wikipedia.org/wiki/Western_marsh_harrier) |  [Sivhauk](https://no.wikipedia.org/wiki/Sivhauk) |
 
-# Gallery Birds
+# Gallery 
 
 {{< image src="/images/birds/marshharrier/_DSC0531_DxO.jpg"  caption="Western marsh harrier" src_s="/images/birds/marshharrier/thumbs/_DSC0531_DxO.jpg" src_l="/images/birds/marshharrier/large/_DSC0531_DxO.jpg" >}}
 {{< image src="/images/birds/marshharrier/DSC03764_DxO.jpg"  caption="Western marsh harrier" src_s="/images/birds/marshharrier/thumbs/DSC03764_DxO.jpg" src_l="/images/birds/marshharrier/large/DSC03764_DxO.jpg" >}}

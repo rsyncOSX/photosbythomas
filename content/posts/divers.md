@@ -8,6 +8,8 @@ categories: [birds]
 
 A few diving ducks. The Smew is red listet. The photo of Smew is a female, a beautiful bird.
 
+<!--more-->
+
 # Wikipedia 
 
 | Latin      | UK | Norwegian | 

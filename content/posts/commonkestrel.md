@@ -7,6 +7,8 @@ categories: [birds, bird of prey]
 ---
 Common kestrel.
 
+<!--more-->
+
 # Wikipedia
 
 | Latin      | UK | Norwegian |

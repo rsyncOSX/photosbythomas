@@ -7,6 +7,8 @@ categories: [birds]
 ---
 A few flycatchers. The Common redstart is in my opinion one the mots beautiful small birds in Norway.
 
+<!--more-->
+
 # Wikipedia 
 
 | Latin      | UK | Norwegian | 

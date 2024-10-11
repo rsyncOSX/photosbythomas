@@ -7,6 +7,8 @@ categories: [animals]
 ---
 Moose, Mountain hare,  Roe deer with cubs, Red deer, Red fox, Red squirrel.
 
+<!--more-->
+
 # Animals
 
 | Latin     | UK | Norwegian | 

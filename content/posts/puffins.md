@@ -8,6 +8,8 @@ categories: [birds]
 
  Puffins at Runde in Norway.
 
+ <!--more-->
+
 # Wikipedia
 
 | Latin      | UK | Norwegian |

@@ -8,6 +8,8 @@ categories: [birds]
 
  Some jays birds.
 
+ <!--more-->
+
 # Wikipedia
 
 | Latin      | UK | Norwegian |
@@ -15,7 +17,7 @@ categories: [birds]
 | Luscinia svecica | [Eurasian jay](https://en.wikipedia.org/wiki/Eurasian_jay) |  [Nøtteskrike](https://no.wikipedia.org/wiki/Nøtteskrike) |
 | Perisoreus infaustus | [Siberian jay](https://en.wikipedia.org/wiki/Siberian_jay) |  [Lavskrike](https://no.wikipedia.org/wiki/Lavskrike) |
 
-# Gallery Birds
+# Gallery
 
 {{< image src="/images/birds/jays/DSC05994_DxO.jpg"  caption="Eurasian jay" src_s="/images/birds/jays/thumbs/DSC05994_DxO.jpg" src_l="/images/birds/jays/large/DSC05994_DxO.jpg" >}}
 {{< image src="/images/birds/jays/DSC06878_DxO.jpg"  caption="Siberian jay" src_s="/images/birds/jays/thumbs/DSC06878_DxO.jpg" src_l="/images/birds/jays/large/DSC06878_DxO.jpg" >}}

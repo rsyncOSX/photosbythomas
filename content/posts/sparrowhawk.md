@@ -8,13 +8,15 @@ categories: [birds, bird of prey]
 
 Eurasian sparrowhawk,
 
+<!--more-->
+
 # Wikipedia
 
 | Latin      | UK | Norwegian |
 | ----------- | ----------- |   ----------- |
 |  Accipiter nisus |  [Eurasian sparrowhawk](https://en.wikipedia.org/wiki/Eurasian_sparrowhawk) |  [Spurvehauk](https://no.wikipedia.org/wiki/Spurvehauk) |
 
-# Gallery Birds
+# Gallery 
 
 {{< image src="/images/birds/birdsofprey/DSC05816_DxO.jpg"  caption="Eurasian sparrowhawk" src_s="/images/birds/birdsofprey/thumbs/DSC05816_DxO.jpg" src_l="/images/birds/birdsofprey/large/DSC05816_DxO.jpg" >}}
 {{< image src="/images/birds/birdsofprey/DSC06207_DxO.jpg"  caption="Eurasian sparrowhawk" src_s="/images/birds/birdsofprey/thumbs/DSC06207_DxO.jpg" src_l="/images/birds/birdsofprey/large/DSC06207_DxO.jpg" >}}

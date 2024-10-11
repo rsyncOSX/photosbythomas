@@ -8,6 +8,8 @@ categories: [birds]
 
 Shorebirds. The Black-tailed godwit is critical threatened in Norway. According to the documentation, there are only a few hundred couples in Norway.
 
+<!--more-->
+
 # Wikipedia 
 
 | Latin      | UK | Norwegian | 

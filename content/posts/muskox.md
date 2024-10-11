@@ -7,6 +7,8 @@ categories: [animals]
 ---
 All but one photo of muskox are of bulls, some young, about 3 years old, and some old bulls. The cub is about 5-6 months old. It is adviced to walk with guide to photo muskox. The safety distance is 200m and if you get to close to the muskox they might charge you. The muskox is not afraid of anything, they are very quick and you *don´t want* to be charged by it. 
 
+<!--more-->
+
 # Muskox
 
 |   Latin  | UK | Norwegian | 

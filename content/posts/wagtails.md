@@ -7,6 +7,8 @@ categories: [birds]
 ---
 Western yellow wagtail,  White wagtail, Citrine wagtail, Grey wagtail. The Citrine Wagtail is not seen often in Norway. The picture of the Citrine Wagtail was at that time the first observation in Norway.
 
+<!--more-->
+
 # Wikipedia
 
 | Latin      | UK  | Norwegian |
@@ -16,7 +18,7 @@ Western yellow wagtail,  White wagtail, Citrine wagtail, Grey wagtail. The Citri
 | Motacilla citreola | [Citrine wagtail](https://en.wikipedia.org/wiki/Citrine_wagtail) |  [Sitronerle ](https://no.wikipedia.org/wiki/Sitronerle) |
 | Motacilla cinerea | [Grey wagtail](https://en.wikipedia.org/wiki/Grey_wagtail) | [Vintererle ](https://no.wikipedia.org/wiki/Vintererle) |
 
-# Gallery Birds
+# Gallery 
 
 {{< image src="/images/birds/wagtails/DSC06964_DxO.jpg"  caption="Citrine wagtail" src_s="/images/birds/wagtails/thumbs/DSC06964_DxO.jpg" src_l="/images/birds/wagtails/large/DSC06964_DxO.jpg" >}}
 {{< image src="/images/birds/wagtails/DSC08283_DxO.jpg"  caption="Western yellow wagtail" src_s="/images/birds/wagtails/thumbs/DSC08283_DxO.jpg" src_l="/images/birds/wagtails/large/DSC08283_DxO.jpg" >}}

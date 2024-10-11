@@ -8,6 +8,8 @@ categories: [birds]
 
 Short-eared owl, Tawny owl, Eurasian pygmy owl and Northern hawk-owl.
 
+<!--more-->
+
 # Wikipedia
 
 | Latin      | UK | Norwegian | 
@@ -17,7 +19,7 @@ Short-eared owl, Tawny owl, Eurasian pygmy owl and Northern hawk-owl.
 | Glaucidium passerinum  |  [Eurasian pygmy owl](https://en.wikipedia.org/wiki/Eurasian_pygmy_owl) | [Spurveugle](https://no.wikipedia.org/wiki/Spurveugle)    |
 | Surnia ulula  |  [Northern hawk-owl](https://en.wikipedia.org/wiki/Northern_hawk-owl) | [Haukugle](https://no.wikipedia.org/wiki/Haukugle)    |
 
-# Gallery Birds
+# Gallery 
 
 {{< image src="/images/birds/owls/DSC09500_DxO.jpg"  caption="Eurasian pygmy owl" src_s="/images/birds/owls/thumbs/DSC09500_DxO.jpg" src_l="/images/birds/owls/large/DSC09500_DxO.jpg" >}}
 {{< image src="/images/birds/owls/DSC00349_DxO.jpg"  caption="Tawny owl" src_s="/images/birds/owls/thumbs/DSC00349_DxO.jpg" src_l="/images/birds/owls/large/DSC00349_DxO.jpg" >}}

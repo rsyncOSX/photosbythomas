@@ -8,6 +8,8 @@ categories: [birds]
 
 There is a photo of one red listet bird, the  Horned Grebe.The Horned Grebe is, in my opinion, one of the most beautiful birds in Norway.
 
+<!--more-->
+
 # Wikipedia 
 
 | Latin      | UK | Norwegian | 

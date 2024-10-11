@@ -5,7 +5,10 @@ subtitle: A few smal and beatiful birds
 tags: [passerine]
 categories: [birds]
 ---
+
 Some other passerine birds.
+
+<!--more-->
 
 # Wikipedia 
 
@@ -17,7 +20,7 @@ Some other passerine birds.
 | Curruca communis  | [Common whitethroat](https://en.wikipedia.org/wiki/Common_whitethroat) |   [Tornsanger](https://no.wikipedia.org/wiki/Tornsanger)     |
 | Certhia familiaris | [Eurasian treecreeper](https://en.wikipedia.org/wiki/Eurasian_treecreeper) |  [Trekryper](https://no.wikipedia.org/wiki/Trekryper) |
 
-# Gallery Birds
+# Gallery
 
 {{< image src="/images/birds/titsandpasserine/DSC07419_DxO.jpg"  caption="Goldcrest" src_s="/images/birds/titsandpasserine/thumbs/DSC07419_DxO.jpg" src_l="/images/birds/titsandpasserine/large/DSC07419_DxO.jpg" >}}
 {{< image src="/images/birds/titsandpasserine/DSC09708_DxO.jpg"  caption="Goldcrest" src_s="/images/birds/titsandpasserine/thumbs/DSC09708_DxO.jpg" src_l="/images/birds/titsandpasserine/large/DSC09708_DxO.jpg" >}}

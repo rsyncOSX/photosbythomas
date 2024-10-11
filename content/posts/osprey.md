@@ -8,6 +8,8 @@ categories: [birds, bird of prey]
 
 The ospreys are nesting in Norway from April to September, and some of them close to where I live.
 
+<!--more-->
+
 # Wikipedia
 
 | Latin      | UK | Norwegian |

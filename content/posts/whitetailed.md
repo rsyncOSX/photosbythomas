@@ -8,6 +8,8 @@ categories: [birds, bird of prey]
 
 White-tailed eagle is the biggest bird in Norway. It is even bigger than the golden eagle.
 
+<!--more-->
+
 # Wikipedia
 
 | Latin      | UK | Norwegian |

@@ -5,7 +5,9 @@ subtitle: Some finches
 tags: [finch]
 categories: [birds]
 ---
-Some finches
+Some finches.
+
+<!--more-->
 
 # Wikipedia 
 
@@ -15,7 +17,7 @@ Some finches
 | Fringilla montifringilla | [Brambling](https://en.wikipedia.org/wiki/Brambling) |  [Bjørkefink](https://nn.wikipedia.org/wiki/Bjørkefink)  |
 | Chloris chloris | [European greenfinch](https://en.wikipedia.org/wiki/European_greenfinch) |  [Grønnfink](https://no.wikipedia.org/wiki/Grønnfink) |
 
-# Gallery Birds
+# Gallery
 
 {{< image src="/images/birds/titsandpasserine/DSC02646_DxO.jpg"  caption="Eurasian bullfinch" src_s="/images/birds/titsandpasserine/thumbs/DSC02646_DxO.jpg" src_l="/images/birds/titsandpasserine/large/DSC02646_DxO.jpg" >}}
 {{< image src="/images/birds/titsandpasserine/DSC08158_DxO.jpg"  caption="European greenfinch" src_s="/images/birds/titsandpasserine/thumbs/DSC08158_DxO.jpg" src_l="/images/birds/titsandpasserine/large/DSC08158_DxO.jpg" >}}

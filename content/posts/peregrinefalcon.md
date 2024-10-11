@@ -8,6 +8,8 @@ categories: [birds, bird of prey]
 
 Peregrine falcon, the fastest animal on earth. The falcon can reach a speed up to 350 km/h when hunting. Impressive.
 
+<!--more-->
+
 # Wikipedia
 
 | Latin      | UK | Norwegian |

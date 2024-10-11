@@ -8,6 +8,8 @@ categories: [birds]
 
  Some other birds.
 
+ <!--more-->
+
 # Wikipedia
 
 | Latin      | UK | Norwegian |
@@ -17,7 +19,7 @@ categories: [birds]
 | Nucifraga caryocatactes | [Eurasian nutcracker](https://en.wikipedia.org/wiki/Spotted_nutcracker) |  [Nøttekråke](https://no.wikipedia.org/wiki/Nøttekråke) |
 | Cygnus cygnus | [Whooper swan](https://en.wikipedia.org/wiki/Whooper_swan) |  [Sangsvane](https://no.wikipedia.org/wiki/Sangsvane) |
 
-# Gallery Birds
+# Gallery 
 
 {{< image src="/images/birds/other/DSC02782_DxO.jpg"  caption="Common blackbird" src_s="/images/birds/other/thumbs/DSC02782_DxO.jpg" src_l="/images/birds/other/large/DSC02782_DxO.jpg" >}}
 {{< image src="/images/birds/other/DSC08702_DxO.jpg"  caption="Eurasian nutcracker" src_s="/images/birds/other/thumbs/DSC08702_DxO.jpg" src_l="/images/birds/other/large/DSC08702_DxO.jpg" >}}
