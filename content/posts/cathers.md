@@ -5,7 +5,7 @@ subtitle: A few flycatchers
 tags: [flycatcher]
 categories: [birds]
 ---
-A few flycatchers. The Common redstart is in my opinion one the mots beautiful small birds in Norway.
+A few flycatchers. The Common redstart is in my opinion one the most beautiful small birds in Norway.
 
 <!--more-->
 
