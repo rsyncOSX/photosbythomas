@@ -24,6 +24,7 @@ of these four owls, are hunting by night. All three others are hunting in daylig
 
 # Gallery
 
+{{< image src="/images/birds/owls/_DSC6411_DxO.jpg"  caption="Northern hawk-owl" src_s="/images/birds/owls/thumbs/_DSC6411_DxO.jpg" src_l="/images/birds/owls/large/_DSC6411_DxO.jpg" >}}
 {{< image src="/images/birds/owls/_DSC5888_DxO.jpg"  caption="Northern hawk-owl" src_s="/images/birds/owls/thumbs/_DSC5888_DxO.jpg" src_l="/images/birds/owls/large/_DSC5888_DxO.jpg" >}}
 {{< image src="/images/birds/owls/_DSC5902_DxO.jpg"  caption="Northern hawk-owl" src_s="/images/birds/owls/thumbs/_DSC5902_DxO.jpg" src_l="/images/birds/owls/large/_DSC5902_DxO.jpg" >}}
 {{< image src="/images/birds/owls/DSC04816_DxO.jpg"  caption="Short-eared owl" src_s="/images/birds/owls/thumbs/DSC04816_DxO.jpg" src_l="/images/birds/owls/large/DSC04816_DxO.jpg" >}}
