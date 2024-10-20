@@ -21,18 +21,14 @@ of these four owls, are hunting by night. All three others are hunting in daylig
 | Strix aluco  | [Tawny owl](https://en.wikipedia.org/wiki/Tawny_owl) |   [Kattugle](https://no.wikipedia.org/wiki/Kattugle)     |
 | Glaucidium passerinum  |  [Eurasian pygmy owl](https://en.wikipedia.org/wiki/Eurasian_pygmy_owl) | [Spurveugle](https://no.wikipedia.org/wiki/Spurveugle)    |
 
-
 # Gallery
 {{< image src="/images/birds/owls/_DSC6660_DxO.jpg"  caption="Northern hawk-owl" src_s="/images/birds/owls/thumbs/_DSC6660_DxO.jpg" src_l="/images/birds/owls/large/_DSC6660_DxO.jpg" >}}
 {{< image src="/images/birds/owls/_DSC6652_DxO.jpg"  caption="Northern hawk-owl" src_s="/images/birds/owls/thumbs/_DSC6652_DxO.jpg" src_l="/images/birds/owls/large/_DSC6652_DxO.jpg" >}}
 {{< image src="/images/birds/owls/_DSC6411_DxO.jpg"  caption="Northern hawk-owl" src_s="/images/birds/owls/thumbs/_DSC6411_DxO.jpg" src_l="/images/birds/owls/large/_DSC6411_DxO.jpg" >}}
-{{< image src="/images/birds/owls/_DSC6258_DxO.jpg"  caption="Northern hawk-owl" src_s="/images/birds/owls/thumbs/_DSC6258_DxO.jpg" src_l="/images/birds/owls/large/_DSC6258_DxO.jpg" >}}
 {{< image src="/images/birds/owls/_DSC5888_DxO.jpg"  caption="Northern hawk-owl" src_s="/images/birds/owls/thumbs/_DSC5888_DxO.jpg" src_l="/images/birds/owls/large/_DSC5888_DxO.jpg" >}}
-{{< image src="/images/birds/owls/_DSC5902_DxO.jpg"  caption="Northern hawk-owl" src_s="/images/birds/owls/thumbs/_DSC5902_DxO.jpg" src_l="/images/birds/owls/large/_DSC5902_DxO.jpg" >}}
 {{< image src="/images/birds/owls/DSC04816_DxO.jpg"  caption="Short-eared owl" src_s="/images/birds/owls/thumbs/DSC04816_DxO.jpg" src_l="/images/birds/owls/large/DSC04816_DxO.jpg" >}}
 {{< image src="/images/birds/owls/DSC04820_DxO.jpg"  caption="Short-eared owl" src_s="/images/birds/owls/thumbs/DSC04820_DxO.jpg" src_l="/images/birds/owls/large/DSC04820_DxO.jpg" >}}
 {{< image src="/images/birds/owls/DSC04676_DxO.jpg"  caption="Short-eared owl" src_s="/images/birds/owls/thumbs/DSC04676_DxO.jpg" src_l="/images/birds/owls/large/DSC04676_DxO.jpg" >}}
 {{< image src="/images/birds/owls/DSC00349_DxO.jpg"  caption="Tawny owl" src_s="/images/birds/owls/thumbs/DSC00349_DxO.jpg" src_l="/images/birds/owls/large/DSC00349_DxO.jpg" >}}
 {{< image src="/images/birds/owls/DSC03983_DxO.jpg"  caption="Tawny owl" src_s="/images/birds/owls/thumbs/DSC03983_DxO.jpg" src_l="/images/birds/owls/large/DSC03983_DxO.jpg" >}}
 {{< image src="/images/birds/owls/DSC09500_DxO.jpg"  caption="Eurasian pygmy owl" src_s="/images/birds/owls/thumbs/DSC09500_DxO.jpg" src_l="/images/birds/owls/large/DSC09500_DxO.jpg" >}}
-{{< image src="/images/birds/owls/DSC09545_DxO.jpg"  caption="Eurasian pygmy owl" src_s="/images/birds/owls/thumbs/DSC09545_DxO.jpg" src_l="/images/birds/owls/large/DSC09545_DxO.jpg" >}}
