@@ -23,7 +23,8 @@ of these four owls, are hunting by night. All three others are hunting in daylig
 
 
 # Gallery
-
+{{< image src="/images/birds/owls/_DSC6660_DxO.jpg"  caption="Northern hawk-owl" src_s="/images/birds/owls/thumbs/_DSC6660_DxO.jpg" src_l="/images/birds/owls/large/_DSC6660_DxO.jpg" >}}
+{{< image src="/images/birds/owls/_DSC6652_DxO.jpg"  caption="Northern hawk-owl" src_s="/images/birds/owls/thumbs/_DSC6652_DxO.jpg" src_l="/images/birds/owls/large/_DSC6652_DxO.jpg" >}}
 {{< image src="/images/birds/owls/_DSC6411_DxO.jpg"  caption="Northern hawk-owl" src_s="/images/birds/owls/thumbs/_DSC6411_DxO.jpg" src_l="/images/birds/owls/large/_DSC6411_DxO.jpg" >}}
 {{< image src="/images/birds/owls/_DSC6258_DxO.jpg"  caption="Northern hawk-owl" src_s="/images/birds/owls/thumbs/_DSC6258_DxO.jpg" src_l="/images/birds/owls/large/_DSC6258_DxO.jpg" >}}
 {{< image src="/images/birds/owls/_DSC5888_DxO.jpg"  caption="Northern hawk-owl" src_s="/images/birds/owls/thumbs/_DSC5888_DxO.jpg" src_l="/images/birds/owls/large/_DSC5888_DxO.jpg" >}}
