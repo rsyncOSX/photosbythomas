@@ -1,0 +1,1 @@
+find . -type f -name '*.md' -exec sed -i -r 's/old_text/new_text/g' {} +
