@@ -4,7 +4,7 @@ description: A few flycatchers
 date: 2024-07-01 00:00:00+0000
 tags: [flycatcher]
 categories: [birds]
-image: _DSC0313_DxO.jpg
+image: DSC08362_DxO.jpg
 ---
 
 The Common redstart is, in my opinion, one the most beautiful small birds in Norway.

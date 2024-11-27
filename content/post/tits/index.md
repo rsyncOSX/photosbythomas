@@ -4,6 +4,7 @@ description: A few tits and yellowhammer
 date: 2024-04-22
 tags: [tit]
 categories: [birds]
+image: DSC01708_DxO.jpg
 ---
 Eurasian nuthatch, Eurasian blue tit,  Long-tailed tit and yellowhammer.
 

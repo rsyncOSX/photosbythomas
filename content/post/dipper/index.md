@@ -4,6 +4,7 @@ description: The national bird of Norway
 date: 2024-04-21
 tags: [dipper]
 categories: [birds]
+image: DSC01617_DxO.jpg
 ---
 
 The White-throated dipper is the national bird of Norway.

@@ -4,6 +4,7 @@ description: Some common singers
 date: 2024-04-23
 tags: [singers]
 categories: [birds]
+image: DSC06657_DxO.jpg
 ---
 Western yellow wagtail,  White wagtail, Citrine wagtail, Grey wagtail. The Citrine Wagtail is not seen often in Norway. The picture of the Citrine Wagtail was at that time the first observation in Norway.
 
