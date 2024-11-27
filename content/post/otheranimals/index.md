@@ -4,6 +4,7 @@ description: A few other wild animals
 date: 2024-04-20
 tags: [moose, hare, deer, fox, squirrel]
 categories: [animals]
+image: DSC06718_DxO.jpg
 ---
 Moose, Mountain hare,  Roe deer with cubs, Red deer, Red fox, Red squirrel.
 

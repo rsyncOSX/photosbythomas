@@ -4,6 +4,7 @@ description: Muskox at Dovre, Norway
 date: 2024-04-20
 tags: [muskox]
 categories: [animals]
+image: DSC08980_DxO.jpg
 ---
 All photos of the muskox were taken in Dovre, Norway, one of the few places in the world where they live.
 

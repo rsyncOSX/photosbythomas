@@ -1,7 +1,7 @@
 ---
 title: Owls
 description: A few photos of owls
-date: 2024-11-25 00:00:00+0000
+date: 2024-11-27 00:00:00+0000
 tags: [owl]
 categories: [birds, bird of prey]
 image: _DSC6831_DxO.jpg
