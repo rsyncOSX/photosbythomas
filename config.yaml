@@ -8,7 +8,7 @@ languages:
   en:
     languageName: English
     title: Photos by Thomas
-    description: Example description
+    description: Mostly bird photos
     weight: 1
 
 # Change it to your Disqus shortname before using
@@ -57,7 +57,7 @@ params:
     toc: false
     readingTime: true
     license:
-      enabled: true
+      enabled: false
       default: Licensed under CC BY-NC-SA 4.0
 
   comments:
