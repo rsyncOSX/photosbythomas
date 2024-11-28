@@ -4,11 +4,11 @@ description: A few smal and beatiful birds
 date: 2024-04-22
 tags: [passerine]
 categories: [birds]
+image: DSC07419_DxO.jpg
 ---
 
-Some other passerine birds.
-
-
+Some other passerine birds. The coldcrest is the smallest European bird. It weights about 5g,
+and it is constantly on the move searching for insects.
 
 | Latin      | UK | Norwegian |
 | ----------- | ----------- |   ----------- |

@@ -4,6 +4,7 @@ description: Some other birds
 date: 2024-04-21
 tags: [blackbird, nutcracker, heron, swan]
 categories: [birds]
+image: _DSC0144_DxO.jpg
 ---
 
 Some other birds.
