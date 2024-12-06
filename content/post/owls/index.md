@@ -32,6 +32,7 @@ has often let me come very close, about 4-5 meters. Others again fly away if I c
 ![Northern hawk-owl](_DSC6652_DxO.jpg)
 ![Northern hawk-owl](_DSC6601_DxO.jpg)
 ![Northern hawk-owl](_DSC6831_DxO.jpg)
+![Northern hawk-owl](_DSC5901_DxO.jpg)
 ![Short-eared owl](DSC04816_DxO.jpg)
 ![Short-eared owl](DSC04820_DxO.jpg)
 ![Short-eared owl](DSC04676_DxO.jpg)
